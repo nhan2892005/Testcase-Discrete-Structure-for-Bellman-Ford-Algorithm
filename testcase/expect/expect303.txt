@@ -1,0 +1,7 @@
+Traveling Saleman Problem Testcase
+path: A B C A
+cost: 6
+path: B A C B
+cost: 6
+path: C A B C
+cost: 6
