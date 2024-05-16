@@ -10,7 +10,7 @@
 ## Hướng dẫn sử dụng bộ test
 - Bước 1: Các bạn clone repo của mình về local theo hướng dẫn sau: [cloning a repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) hoặc download zip file
 
-- Bước 2: Thêm 2 file bài bài làm `bellman.cpp` và `bellman.h`
+- Bước 2: Thêm 2 file bài bài làm `bellman.cpp` và `bellman.h` (nếu cần)
 
 - Bước 3: ở thư mục gốc (bạn vừa clone về) chạy lệnh
   
