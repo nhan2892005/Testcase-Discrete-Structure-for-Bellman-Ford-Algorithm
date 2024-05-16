@@ -4,6 +4,7 @@
 #include <algorithm>
 #include <string>
 #include <fstream>
+#include <vector>
 using namespace std;
 const int max_vertices = 20; 
 #endif
