@@ -1,0 +1,200 @@
+Step 0: 
+15 6 39 20 29 51 87 0 
+7 7 7 7 7 7 7 -1 
+Step 1: 
+15 6 39 20 29 31 48 0 
+7 7 7 7 7 4 0 -1 
+Step 2: 
+15 6 39 20 29 31 48 0 
+7 7 7 7 7 4 0 -1 
+Step 3: 
+15 6 39 20 29 31 48 0 
+7 7 7 7 7 4 0 -1 
+Step 4: 
+15 6 39 20 29 31 48 0 
+7 7 7 7 7 4 0 -1 
+Step 5: 
+15 6 39 20 29 31 48 0 
+7 7 7 7 7 4 0 -1 
+Step 6: 
+15 6 39 20 29 31 48 0 
+7 7 7 7 7 4 0 -1 
+Step 7: 
+15 6 39 20 29 31 48 0 
+7 7 7 7 7 4 0 -1 
+Step 0: 
+12 5 78 38 46 38 70 0 
+7 7 7 7 7 7 7 -1 
+Step 1: 
+7 5 22 21 46 38 56 0 
+1 7 1 1 7 7 0 -1 
+Step 2: 
+7 5 22 21 31 38 51 0 
+1 7 1 1 2 7 0 -1 
+Step 3: 
+7 5 22 21 31 38 51 0 
+1 7 1 1 2 7 0 -1 
+Step 4: 
+7 5 22 21 31 38 51 0 
+1 7 1 1 2 7 0 -1 
+Step 5: 
+7 5 22 21 31 38 51 0 
+1 7 1 1 2 7 0 -1 
+Step 6: 
+7 5 22 21 31 38 51 0 
+1 7 1 1 2 7 0 -1 
+Step 7: 
+7 5 22 21 31 38 51 0 
+1 7 1 1 2 7 0 -1 
+Step 0: 
+15 6 39 20 29 51 87 0 
+7 7 7 7 7 7 7 -1 
+Step 1: 
+8 5 23 20 29 38 59 0 
+1 7 1 7 7 7 0 -1 
+Step 2: 
+8 5 23 20 29 31 41 0 
+1 7 1 7 7 4 0 -1 
+Step 3: 
+7 5 22 20 29 31 41 0 
+1 7 1 7 7 4 0 -1 
+Step 4: 
+7 5 22 20 29 31 40 0 
+1 7 1 7 7 4 0 -1 
+Step 5: 
+7 5 22 20 29 31 40 0 
+1 7 1 7 7 4 0 -1 
+Step 6: 
+7 5 22 20 29 31 40 0 
+1 7 1 7 7 4 0 -1 
+Step 7: 
+7 5 22 20 29 31 40 0 
+1 7 1 7 7 4 0 -1 
+A
+A G C B
+A G C
+A H D
+A G E
+A F
+A G
+A H
+B D A
+B
+B C
+B D
+B D E
+B D E F
+B D G
+B H
+C B D A
+C B
+C
+C B D
+C E
+C E F
+C G
+C H
+D A
+D G C B
+D G C
+D
+D E
+D E F
+D G
+D E H
+E A
+E H B
+E C
+E F D
+E
+E F
+E F D G
+E H
+F D A
+F C B
+F C
+F D
+F D E
+F
+F D G
+F D E H
+G A
+G C B
+G C
+G E F D
+G E
+G E F
+G
+G H
+H A
+H B
+H C
+H D
+H E
+H E F
+H A G
+H
+A
+A B
+A C
+A B D
+A C E
+A G F
+A G
+A C E H
+B A
+B
+B C
+B D
+B C E
+B C F
+B A G
+B C E H
+C E H B A
+C E H B
+C
+C E H B D
+C E
+C F
+C G
+C E H
+D C E H B A
+D C E H B
+D C
+D
+D C E
+D F
+D C G
+D C E H
+E H B A
+E H B
+E H B C
+E H B D
+E
+E H F
+E H B A G
+E H
+F B A
+F B
+F C
+F D
+F C E
+F
+F C G
+F H
+G F B A
+G F B
+G F C
+G F D
+G F C E
+G F
+G
+G F H
+H B A
+H B
+H B C
+H B D
+H B C E
+H F
+H B A G
+H

@@ -1,0 +1,95 @@
+Step 0: 
+393 0 854 311 767 
+1 -1 1 1 1 
+Step 1: 
+393 0 812 311 767 
+1 -1 3 1 1 
+Step 2: 
+393 0 812 311 767 
+1 -1 3 1 1 
+Step 3: 
+393 0 812 311 767 
+1 -1 3 1 1 
+Step 4: 
+393 0 812 311 767 
+1 -1 3 1 1 
+Step 0: 
+11 0 10 91 77 
+1 -1 1 1 1 
+Step 1: 
+11 0 10 90 72 
+1 -1 1 2 0 
+Step 2: 
+11 0 10 90 72 
+1 -1 1 2 0 
+Step 3: 
+11 0 10 90 72 
+1 -1 1 2 0 
+Step 4: 
+11 0 10 90 72 
+1 -1 1 2 0 
+Step 0: 
+393 0 854 311 767 
+1 -1 1 1 1 
+Step 1: 
+11 0 10 91 77 
+1 -1 1 1 1 
+Step 2: 
+11 0 10 91 43 
+1 -1 1 1 2 
+Step 3: 
+11 0 10 90 43 
+1 -1 1 2 2 
+Step 4: 
+11 0 10 90 43 
+1 -1 1 2 2 
+A
+A B
+A C
+A B D
+A E
+B A
+B
+B D C
+B D
+B E
+C E B A
+C E B
+C
+C D
+C E
+D A
+D B
+D C
+D
+D C E
+E B A
+E B
+E C
+E B D
+E
+A
+A C B
+A C
+A D
+A E
+B A
+B
+B C
+B C D
+B A E
+C B A
+C B
+C
+C D
+C D E
+D B A
+D B
+D B C
+D
+D E
+E B A
+E B
+E C
+E C D
+E

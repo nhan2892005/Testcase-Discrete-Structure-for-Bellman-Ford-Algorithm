@@ -1,0 +1,95 @@
+Step 0: 
+48 13 0 58 93 
+2 2 -1 2 2 
+Step 1: 
+48 13 0 58 53 
+2 2 -1 2 1 
+Step 2: 
+48 13 0 58 53 
+2 2 -1 2 1 
+Step 3: 
+48 13 0 58 53 
+2 2 -1 2 1 
+Step 4: 
+48 13 0 58 53 
+2 2 -1 2 1 
+Step 0: 
+77 61 0 66 44 
+2 2 -1 2 2 
+Step 1: 
+77 61 0 66 44 
+2 2 -1 2 2 
+Step 2: 
+77 61 0 66 44 
+2 2 -1 2 2 
+Step 3: 
+77 61 0 66 44 
+2 2 -1 2 2 
+Step 4: 
+77 61 0 66 44 
+2 2 -1 2 2 
+Step 0: 
+48 13 0 58 93 
+2 2 -1 2 2 
+Step 1: 
+48 13 0 46 44 
+2 2 -1 1 2 
+Step 2: 
+48 13 0 46 44 
+2 2 -1 1 2 
+Step 3: 
+48 13 0 46 44 
+2 2 -1 1 2 
+Step 4: 
+48 13 0 46 44 
+2 2 -1 1 2 
+A
+A E B
+A E B C
+A D
+A E
+B C A
+B
+B C
+B D
+B E
+C A
+C B
+C
+C D
+C B E
+D E A
+D E B
+D E B C
+D
+D E
+E A
+E B
+E B C
+E B D
+E
+A
+A B
+A B C
+A B D
+A B E
+B E A
+B
+B C
+B D
+B E
+C A
+C B
+C
+C D
+C E
+D A
+D B
+D B C
+D
+D E
+E A
+E B
+E B C
+E D
+E

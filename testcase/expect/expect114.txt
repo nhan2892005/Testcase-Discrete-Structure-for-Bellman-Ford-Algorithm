@@ -1,0 +1,126 @@
+Step 0: 
+765 748 714 106 616 0 
+5 5 5 5 5 -1 
+Step 1: 
+399 228 111 106 616 0 
+3 3 3 5 5 -1 
+Step 2: 
+399 228 111 106 462 0 
+3 3 3 5 1 -1 
+Step 3: 
+399 228 111 106 462 0 
+3 3 3 5 1 -1 
+Step 4: 
+399 228 111 106 462 0 
+3 3 3 5 1 -1 
+Step 5: 
+399 228 111 106 462 0 
+3 3 3 5 1 -1 
+Step 0: 
+97 63 14 55 80 0 
+5 5 5 5 5 -1 
+Step 1: 
+97 27 14 55 69 0 
+5 2 5 5 2 -1 
+Step 2: 
+97 27 14 52 69 0 
+5 2 5 1 2 -1 
+Step 3: 
+97 27 14 52 69 0 
+5 2 5 1 2 -1 
+Step 4: 
+97 27 14 52 69 0 
+5 2 5 1 2 -1 
+Step 5: 
+97 27 14 52 69 0 
+5 2 5 1 2 -1 
+Step 0: 
+765 748 714 106 616 0 
+5 5 5 5 5 -1 
+Step 1: 
+97 63 14 55 80 0 
+5 5 5 5 5 -1 
+Step 2: 
+97 63 14 55 80 0 
+5 5 5 5 5 -1 
+Step 3: 
+97 27 14 55 69 0 
+5 2 5 5 2 -1 
+Step 4: 
+97 27 14 55 69 0 
+5 2 5 5 2 -1 
+Step 5: 
+97 27 14 52 69 0 
+5 2 5 1 2 -1 
+A
+A D B
+A D C
+A D
+A D B E
+A F
+B E D A
+B
+B E D C
+B E D
+B E
+B E D C F
+C A
+C B
+C
+C E D
+C E
+C F
+D A
+D B
+D C
+D
+D B E
+D C F
+E D A
+E D B
+E D C
+E D
+E
+E D C F
+F D A
+F D B
+F D C
+F D
+F D B E
+F
+A
+A C B
+A C
+A C B D
+A E
+A F
+B A
+B
+B C
+B D
+B E
+B F
+C A
+C B
+C
+C B D
+C E
+C F
+D A
+D B
+D C
+D
+D E
+D A F
+E A
+E B
+E C
+E B D
+E
+E B F
+F A
+F C B
+F C
+F C B D
+F C E
+F

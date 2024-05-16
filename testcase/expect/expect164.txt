@@ -1,0 +1,290 @@
+Step 0: 
+957 447 121 964 104 516 308 979 864 0 
+9 9 9 9 9 9 9 9 9 -1 
+Step 1: 
+176 351 121 604 104 245 308 496 111 0 
+4 6 9 2 9 4 9 1 4 -1 
+Step 2: 
+176 351 121 453 104 216 308 400 111 0 
+4 6 9 5 9 8 9 1 4 -1 
+Step 3: 
+176 351 121 424 104 216 308 400 111 0 
+4 6 9 5 9 8 9 1 4 -1 
+Step 4: 
+176 351 121 424 104 216 308 400 111 0 
+4 6 9 5 9 8 9 1 4 -1 
+Step 5: 
+176 351 121 424 104 216 308 400 111 0 
+4 6 9 5 9 8 9 1 4 -1 
+Step 6: 
+176 351 121 424 104 216 308 400 111 0 
+4 6 9 5 9 8 9 1 4 -1 
+Step 7: 
+176 351 121 424 104 216 308 400 111 0 
+4 6 9 5 9 8 9 1 4 -1 
+Step 8: 
+176 351 121 424 104 216 308 400 111 0 
+4 6 9 5 9 8 9 1 4 -1 
+Step 9: 
+176 351 121 424 104 216 308 400 111 0 
+4 6 9 5 9 8 9 1 4 -1 
+Step 0: 
+43 98 37 77 9 82 41 71 96 0 
+9 9 9 9 9 9 9 9 9 -1 
+Step 1: 
+43 63 37 45 9 62 41 45 26 0 
+9 2 9 2 9 4 9 2 4 -1 
+Step 2: 
+43 63 37 31 9 62 41 45 26 0 
+9 2 9 8 9 4 9 2 4 -1 
+Step 3: 
+43 63 37 31 9 48 41 45 26 0 
+9 2 9 8 9 3 9 2 4 -1 
+Step 4: 
+43 63 37 31 9 48 41 45 26 0 
+9 2 9 8 9 3 9 2 4 -1 
+Step 5: 
+43 63 37 31 9 48 41 45 26 0 
+9 2 9 8 9 3 9 2 4 -1 
+Step 6: 
+43 63 37 31 9 48 41 45 26 0 
+9 2 9 8 9 3 9 2 4 -1 
+Step 7: 
+43 63 37 31 9 48 41 45 26 0 
+9 2 9 8 9 3 9 2 4 -1 
+Step 8: 
+43 63 37 31 9 48 41 45 26 0 
+9 2 9 8 9 3 9 2 4 -1 
+Step 9: 
+43 63 37 31 9 48 41 45 26 0 
+9 2 9 8 9 3 9 2 4 -1 
+Step 0: 
+957 447 121 964 104 516 308 979 864 0 
+9 9 9 9 9 9 9 9 9 -1 
+Step 1: 
+43 98 37 77 9 82 41 71 96 0 
+9 9 9 9 9 9 9 9 9 -1 
+Step 2: 
+43 84 37 77 9 82 41 71 16 0 
+9 6 9 9 9 9 9 9 4 -1 
+Step 3: 
+43 53 37 21 9 62 41 45 16 0 
+9 8 9 8 9 4 9 2 4 -1 
+Step 4: 
+43 53 37 21 9 62 41 45 16 0 
+9 8 9 8 9 4 9 2 4 -1 
+Step 5: 
+37 53 35 21 9 38 32 44 16 0 
+3 8 3 8 9 3 3 3 4 -1 
+Step 6: 
+37 53 35 21 9 38 32 44 16 0 
+3 8 3 8 9 3 3 3 4 -1 
+Step 7: 
+37 53 35 21 9 38 32 43 16 0 
+3 8 3 8 9 3 3 2 4 -1 
+Step 8: 
+37 53 35 21 9 38 32 43 16 0 
+3 8 3 8 9 3 3 2 4 -1 
+Step 9: 
+37 53 35 21 9 38 32 43 16 0 
+3 8 3 8 9 3 3 2 4 -1 
+A
+A I J G B
+A I J C
+A I F D
+A I J E
+A I F
+A I J G
+A H
+A I
+A I J
+B C A
+B
+B C
+B D
+B H G J E
+B H F
+B H G
+B H
+B H I
+B H G J
+C A
+C F D G B
+C
+C F D
+C A I J E
+C F
+C F D G
+C F D G B H
+C A I
+C A I J
+D G J E A
+D G B
+D G J C
+D
+D G J E
+D G J E I F
+D G
+D G B H
+D G J E I
+D G J
+E A
+E I J G B
+E I J C
+E I F D
+E
+E I F
+E I J G
+E I J G B H
+E I
+E I J
+F A
+F D G B
+F I J C
+F D
+F I J E
+F
+F D G
+F D G B H
+F I
+F I J
+G J E A
+G B
+G J C
+G B D
+G J E
+G J E I F
+G
+G B H
+G J E I
+G J
+H C A
+H B
+H C
+H F D
+H G J E
+H F
+H G
+H
+H I
+H G J
+I J E A
+I J G B
+I J C
+I F D
+I J E
+I F
+I J G
+I J G B H
+I
+I J
+J E A
+J G B
+J C
+J E I F D
+J E
+J E I F
+J G
+J G B H
+J E I
+J
+A
+A B
+A D C
+A D
+A J E
+A D F
+A D G
+A H
+A H I
+A J
+B A
+B
+B C
+B J E I D
+B J E
+B F
+B J G
+B C H
+B J E I
+B J
+C D A
+C B
+C
+C D
+C H E
+C D F
+C D G
+C H
+C I
+C B J
+D A
+D C B
+D C
+D
+D A J E
+D F
+D G
+D C H
+D C I
+D A J
+E I D A
+E I B
+E I D C
+E I D
+E
+E I D F
+E I D G
+E I D C H
+E I
+E I D A J
+F C D A
+F C B
+F C
+F C D
+F C H E
+F
+F C D G
+F C H
+F I
+F C B J
+G A
+G B
+G F C
+G A D
+G A J E
+G F
+G
+G A H
+G A H I
+G A J
+H I D A
+H I B
+H I D C
+H I D
+H E
+H I D F
+H I D G
+H
+H I
+H J
+I D A
+I B
+I D C
+I D
+I D A J E
+I D F
+I D G
+I D C H
+I
+I D A J
+J A
+J C B
+J C
+J E I D
+J E
+J E I D F
+J G
+J C H
+J E I
+J

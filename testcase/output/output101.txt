@@ -1,0 +1,341 @@
+Step 0: 
+649 40 286 570 725 890 189 810 900 926 0 
+10 10 10 10 10 10 10 10 10 10 -1 
+Step 1: 
+649 40 286 157 487 335 189 164 260 792 0 
+10 10 10 1 6 2 10 1 6 0 -1 
+Step 2: 
+423 40 286 157 342 335 189 164 256 792 0 
+5 10 10 1 8 2 10 1 3 0 -1 
+Step 3: 
+423 40 286 157 338 335 189 164 256 566 0 
+5 10 10 1 8 2 10 1 3 0 -1 
+Step 4: 
+423 40 286 157 338 335 189 164 256 566 0 
+5 10 10 1 8 2 10 1 3 0 -1 
+Step 5: 
+423 40 286 157 338 335 189 164 256 566 0 
+5 10 10 1 8 2 10 1 3 0 -1 
+Step 6: 
+423 40 286 157 338 335 189 164 256 566 0 
+5 10 10 1 8 2 10 1 3 0 -1 
+Step 7: 
+423 40 286 157 338 335 189 164 256 566 0 
+5 10 10 1 8 2 10 1 3 0 -1 
+Step 8: 
+423 40 286 157 338 335 189 164 256 566 0 
+5 10 10 1 8 2 10 1 3 0 -1 
+Step 9: 
+423 40 286 157 338 335 189 164 256 566 0 
+5 10 10 1 8 2 10 1 3 0 -1 
+Step 10: 
+423 40 286 157 338 335 189 164 256 566 0 
+5 10 10 1 8 2 10 1 3 0 -1 
+Step 0: 
+56 27 94 93 81 6 4 18 34 88 0 
+10 10 10 10 10 10 10 10 10 10 -1 
+Step 1: 
+23 19 41 20 55 6 4 18 16 26 0 
+5 7 1 7 1 10 10 10 5 6 -1 
+Step 2: 
+22 19 26 20 47 6 4 18 16 26 0 
+8 7 0 7 1 10 10 10 5 6 -1 
+Step 3: 
+22 19 25 20 47 6 4 18 16 26 0 
+8 7 0 7 1 10 10 10 5 6 -1 
+Step 4: 
+22 19 25 20 47 6 4 18 16 26 0 
+8 7 0 7 1 10 10 10 5 6 -1 
+Step 5: 
+22 19 25 20 47 6 4 18 16 26 0 
+8 7 0 7 1 10 10 10 5 6 -1 
+Step 6: 
+22 19 25 20 47 6 4 18 16 26 0 
+8 7 0 7 1 10 10 10 5 6 -1 
+Step 7: 
+22 19 25 20 47 6 4 18 16 26 0 
+8 7 0 7 1 10 10 10 5 6 -1 
+Step 8: 
+22 19 25 20 47 6 4 18 16 26 0 
+8 7 0 7 1 10 10 10 5 6 -1 
+Step 9: 
+22 19 25 20 47 6 4 18 16 26 0 
+8 7 0 7 1 10 10 10 5 6 -1 
+Step 10: 
+22 19 25 20 47 6 4 18 16 26 0 
+8 7 0 7 1 10 10 10 5 6 -1 
+Step 0: 
+649 40 286 570 725 890 189 810 900 926 0 
+10 10 10 10 10 10 10 10 10 10 -1 
+Step 1: 
+56 27 54 93 68 6 4 18 34 88 0 
+10 10 1 10 1 10 10 10 10 10 -1 
+Step 2: 
+56 27 54 93 68 6 4 18 34 88 0 
+10 10 1 10 1 10 10 10 10 10 -1 
+Step 3: 
+23 19 41 20 55 6 4 18 16 26 0 
+5 7 1 7 1 10 10 10 5 6 -1 
+Step 4: 
+23 19 41 20 55 6 4 18 16 26 0 
+5 7 1 7 1 10 10 10 5 6 -1 
+Step 5: 
+22 19 26 20 47 6 4 18 16 26 0 
+8 7 0 7 1 10 10 10 5 6 -1 
+Step 6: 
+22 19 26 20 47 6 4 18 16 26 0 
+8 7 0 7 1 10 10 10 5 6 -1 
+Step 7: 
+22 19 25 20 47 6 4 18 16 26 0 
+8 7 0 7 1 10 10 10 5 6 -1 
+Step 8: 
+22 19 25 20 47 6 4 18 16 26 0 
+8 7 0 7 1 10 10 10 5 6 -1 
+Step 9: 
+22 19 25 20 47 6 4 18 16 26 0 
+8 7 0 7 1 10 10 10 5 6 -1 
+Step 10: 
+22 19 25 20 47 6 4 18 16 26 0 
+8 7 0 7 1 10 10 10 5 6 -1 
+A
+A J K B
+A C
+A J K B D
+A E
+A C F
+A E G
+A H
+A E I
+A J
+A J K
+B H A
+B
+B D C
+B D
+B D I E
+B H F
+B D I E G
+B H
+B D I
+B H A J
+B K
+C F A
+C F A J K B
+C
+C F A J K B D
+C F A E
+C F
+C F A E G
+C F H
+C F A E I
+C F A J
+C F A J K
+D I A
+D B
+D C
+D
+D I E
+D B H F
+D I E G
+D B H
+D I
+D I A J
+D I A J K
+E I A
+E J K B
+E G C
+E G D
+E
+E G C F
+E G
+E I H
+E I
+E J
+E J K
+F A
+F A J K B
+F A C
+F A J K B D
+F A E
+F
+F A E G
+F H
+F A E I
+F A J
+F A J K
+G I A
+G D B
+G C
+G D
+G I E
+G C F
+G
+G I H
+G I
+G I A J
+G I A J K
+H A
+H A J K B
+H A C
+H D
+H A E
+H F
+H A E G
+H
+H A E I
+H A J
+H A J K
+I A
+I A J K B
+I A C
+I E G D
+I E
+I A C F
+I E G
+I H
+I
+I A J
+I A J K
+J F A
+J K B
+J K C
+J K B D
+J G I E
+J F
+J G
+J K B H
+J G I
+J
+J K
+K C F A
+K B
+K C
+K B D
+K B D I E
+K C F
+K G
+K B H
+K B D I
+K C F A J
+K
+A
+A B
+A C
+A J H D
+A J E
+A J F
+A J F G
+A J H
+A J I
+A J
+A J H D K
+B I A
+B
+B C
+B E H D
+B E
+B C F
+B E H D G
+B E H
+B I
+B C J
+B E K
+C J I A
+C J H B
+C
+C J H D
+C J E
+C F
+C F G
+C J H
+C J I
+C J
+C K
+D G A
+D K H B
+D G A C
+D
+D G J E
+D K F
+D G
+D K H
+D I
+D G J
+D K
+E A
+E H B
+E A C
+E H D
+E
+E H F
+E H D G
+E H
+E H F I
+E A J
+E K
+F I A
+F H B
+F I A C
+F H D
+F I A J E
+F
+F G
+F H
+F I
+F I A J
+F G K
+G A
+G B
+G A C
+G J H D
+G J E
+G J F
+G
+G J H
+G J I
+G J
+G K
+H A
+H B
+H B C
+H D
+H B E
+H F
+H D G
+H
+H F I
+H D G J
+H D K
+I A
+I A B
+I A C
+I A J H D
+I A J E
+I A J F
+I A J F G
+I A J H
+I
+I A J
+I A J H D K
+J I A
+J H B
+J I A C
+J H D
+J E
+J F
+J F G
+J H
+J I
+J
+J H D K
+K F I A
+K H B
+K F I A C
+K H D
+K H B E
+K F
+K G
+K H
+K F I
+K G J
+K

@@ -1,0 +1,68 @@
+Step 0: 
+828 310 0 542 
+2 2 -1 2 
+Step 1: 
+625 310 0 542 
+3 2 -1 2 
+Step 2: 
+625 310 0 542 
+3 2 -1 2 
+Step 3: 
+625 310 0 542 
+3 2 -1 2 
+Step 0: 
+6 24 0 84 
+2 2 -1 2 
+Step 1: 
+6 24 0 29 
+2 2 -1 1 
+Step 2: 
+6 24 0 29 
+2 2 -1 1 
+Step 3: 
+6 24 0 29 
+2 2 -1 1 
+Step 0: 
+828 310 0 542 
+2 2 -1 2 
+Step 1: 
+6 24 0 84 
+2 2 -1 2 
+Step 2: 
+6 24 0 84 
+2 2 -1 2 
+Step 3: 
+6 24 0 29 
+2 2 -1 1 
+A
+A C B
+A C
+A D
+B D A
+B
+B C
+B D
+C D A
+C B
+C
+C D
+D A
+D A C B
+D A C
+D
+A
+A B
+A C
+A D
+B D A
+B
+B C
+B D
+C A
+C B
+C
+C B D
+D A
+D B
+D C
+D

@@ -1,0 +1,243 @@
+Step 0: 
+616 201 941 805 512 714 285 0 747 
+7 7 7 7 7 7 7 -1 7 
+Step 1: 
+606 201 358 347 319 553 285 0 492 
+1 7 1 1 1 6 7 -1 1 
+Step 2: 
+553 201 358 347 319 535 285 0 492 
+4 7 1 1 1 3 7 -1 1 
+Step 3: 
+553 201 358 347 319 535 285 0 492 
+4 7 1 1 1 3 7 -1 1 
+Step 4: 
+553 201 358 347 319 535 285 0 492 
+4 7 1 1 1 3 7 -1 1 
+Step 5: 
+553 201 358 347 319 535 285 0 492 
+4 7 1 1 1 3 7 -1 1 
+Step 6: 
+553 201 358 347 319 535 285 0 492 
+4 7 1 1 1 3 7 -1 1 
+Step 7: 
+553 201 358 347 319 535 285 0 492 
+4 7 1 1 1 3 7 -1 1 
+Step 8: 
+553 201 358 347 319 535 285 0 492 
+4 7 1 1 1 3 7 -1 1 
+Step 0: 
+27 55 20 78 61 63 21 0 65 
+7 7 7 7 7 7 7 -1 7 
+Step 1: 
+27 55 20 29 55 46 21 0 32 
+7 7 7 2 2 0 7 -1 2 
+Step 2: 
+27 55 20 29 55 34 21 0 32 
+7 7 7 2 2 8 7 -1 2 
+Step 3: 
+27 55 20 29 55 34 21 0 32 
+7 7 7 2 2 8 7 -1 2 
+Step 4: 
+27 55 20 29 55 34 21 0 32 
+7 7 7 2 2 8 7 -1 2 
+Step 5: 
+27 55 20 29 55 34 21 0 32 
+7 7 7 2 2 8 7 -1 2 
+Step 6: 
+27 55 20 29 55 34 21 0 32 
+7 7 7 2 2 8 7 -1 2 
+Step 7: 
+27 55 20 29 55 34 21 0 32 
+7 7 7 2 2 8 7 -1 2 
+Step 8: 
+27 55 20 29 55 34 21 0 32 
+7 7 7 2 2 8 7 -1 2 
+Step 0: 
+616 201 941 805 512 714 285 0 747 
+7 7 7 7 7 7 7 -1 7 
+Step 1: 
+27 55 20 78 61 63 21 0 65 
+7 7 7 7 7 7 7 -1 7 
+Step 2: 
+27 55 20 78 61 63 21 0 65 
+7 7 7 7 7 7 7 -1 7 
+Step 3: 
+27 55 20 29 55 46 21 0 32 
+7 7 7 2 2 0 7 -1 2 
+Step 4: 
+27 55 20 29 55 46 21 0 32 
+7 7 7 2 2 0 7 -1 2 
+Step 5: 
+27 55 20 29 55 34 21 0 32 
+7 7 7 2 2 8 7 -1 2 
+Step 6: 
+27 55 20 29 55 34 21 0 32 
+7 7 7 2 2 8 7 -1 2 
+Step 7: 
+27 55 20 29 55 34 21 0 32 
+7 7 7 2 2 8 7 -1 2 
+Step 8: 
+27 55 20 29 55 34 21 0 32 
+7 7 7 2 2 8 7 -1 2 
+A
+A H B
+A H B C
+A H B D
+A E
+A F
+A E G
+A H
+A H B I
+B E A
+B
+B C
+B D
+B E
+B D F
+B E G
+B H
+B I
+C E A
+C H B
+C
+C D
+C E
+C F
+C F G
+C H
+C I
+D F A
+D C H B
+D C
+D
+D C E
+D F
+D F G
+D C H
+D C I
+E A
+E B
+E G D C
+E G D
+E
+E G F
+E G
+E A H
+E I
+F A
+F H B
+F G D C
+F G D
+F H B E
+F
+F G
+F H
+F I
+G F A
+G B
+G D C
+G D
+G E
+G F
+G
+G F H
+G D C I
+H B E A
+H B
+H B C
+H B D
+H B E
+H B D F
+H G
+H
+H B I
+I A
+I H B
+I H B C
+I H B D
+I H B E
+I G F
+I G
+I H
+I
+A
+A F C B
+A F C
+A F C D
+A F C E
+A F
+A F C G
+A H
+A F C I
+B C A
+B
+B C
+B C D
+B E
+B C I F
+B G
+B H
+B C I
+C A
+C B
+C
+C D
+C E
+C I F
+C G
+C I H
+C I
+D A
+D B
+D I F C
+D
+D E
+D I F
+D E G
+D A H
+D I
+E G A
+E G C B
+E G C
+E G C D
+E
+E G F
+E G
+E G C I H
+E G C I
+F C A
+F C B
+F C
+F C D
+F C E
+F
+F C G
+F H
+F C I
+G A
+G C B
+G C
+G C D
+G C E
+G F
+G
+G C I H
+G C I
+H A
+H B
+H C
+H C D
+H C E
+H C I F
+H G
+H
+H C I
+I F C A
+I F C B
+I F C
+I F C D
+I E
+I F
+I F C G
+I H
+I

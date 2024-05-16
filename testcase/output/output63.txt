@@ -1,0 +1,95 @@
+Step 0: 
+48 0 15 48 87 
+1 -1 1 1 1 
+Step 1: 
+47 0 15 48 54 
+2 -1 1 1 0 
+Step 2: 
+47 0 15 48 53 
+2 -1 1 1 0 
+Step 3: 
+47 0 15 48 53 
+2 -1 1 1 0 
+Step 4: 
+47 0 15 48 53 
+2 -1 1 1 0 
+Step 0: 
+49 0 57 46 31 
+1 -1 1 1 1 
+Step 1: 
+49 0 57 46 31 
+1 -1 1 1 1 
+Step 2: 
+49 0 57 46 31 
+1 -1 1 1 1 
+Step 3: 
+49 0 57 46 31 
+1 -1 1 1 1 
+Step 4: 
+49 0 57 46 31 
+1 -1 1 1 1 
+Step 0: 
+48 0 15 48 87 
+1 -1 1 1 1 
+Step 1: 
+35 0 15 46 31 
+2 -1 1 1 1 
+Step 2: 
+35 0 15 43 31 
+2 -1 1 4 1 
+Step 3: 
+35 0 15 38 31 
+2 -1 1 0 1 
+Step 4: 
+35 0 15 38 31 
+2 -1 1 0 1 
+A
+A B
+A C
+A E D
+A E
+B C A
+B
+B C
+B D
+B C A E
+C A
+C D B
+C
+C D
+C A E
+D C A
+D B
+D C
+D
+D E
+E C A
+E D B
+E C
+E D
+E
+A
+A C B
+A C
+A D
+A D E
+B A
+B
+B C
+B D
+B E
+C A
+C B
+C
+C A D
+C A D E
+D A
+D C B
+D C
+D
+D E
+E D A
+E B
+E D C
+E D
+E

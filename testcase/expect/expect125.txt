@@ -1,0 +1,341 @@
+Step 0: 
+874 628 702 429 0 221 421 490 676 374 448 
+4 4 4 4 -1 4 4 4 4 4 4 
+Step 1: 
+499 539 469 429 0 221 421 490 565 374 448 
+9 10 5 4 -1 4 4 4 10 4 4 
+Step 2: 
+499 539 469 429 0 221 421 490 565 374 448 
+9 10 5 4 -1 4 4 4 10 4 4 
+Step 3: 
+499 539 469 429 0 221 421 490 565 374 448 
+9 10 5 4 -1 4 4 4 10 4 4 
+Step 4: 
+499 539 469 429 0 221 421 490 565 374 448 
+9 10 5 4 -1 4 4 4 10 4 4 
+Step 5: 
+499 539 469 429 0 221 421 490 565 374 448 
+9 10 5 4 -1 4 4 4 10 4 4 
+Step 6: 
+499 539 469 429 0 221 421 490 565 374 448 
+9 10 5 4 -1 4 4 4 10 4 4 
+Step 7: 
+499 539 469 429 0 221 421 490 565 374 448 
+9 10 5 4 -1 4 4 4 10 4 4 
+Step 8: 
+499 539 469 429 0 221 421 490 565 374 448 
+9 10 5 4 -1 4 4 4 10 4 4 
+Step 9: 
+499 539 469 429 0 221 421 490 565 374 448 
+9 10 5 4 -1 4 4 4 10 4 4 
+Step 10: 
+499 539 469 429 0 221 421 490 565 374 448 
+9 10 5 4 -1 4 4 4 10 4 4 
+Step 0: 
+52 33 78 56 0 30 51 42 64 67 15 
+4 4 4 4 -1 4 4 4 4 4 4 
+Step 1: 
+52 32 55 22 0 30 51 42 47 49 15 
+4 10 10 10 -1 4 4 4 5 10 4 
+Step 2: 
+52 32 55 22 0 30 51 33 47 49 15 
+4 10 10 10 -1 4 4 3 5 10 4 
+Step 3: 
+52 32 55 22 0 30 51 33 47 49 15 
+4 10 10 10 -1 4 4 3 5 10 4 
+Step 4: 
+52 32 55 22 0 30 51 33 47 49 15 
+4 10 10 10 -1 4 4 3 5 10 4 
+Step 5: 
+52 32 55 22 0 30 51 33 47 49 15 
+4 10 10 10 -1 4 4 3 5 10 4 
+Step 6: 
+52 32 55 22 0 30 51 33 47 49 15 
+4 10 10 10 -1 4 4 3 5 10 4 
+Step 7: 
+52 32 55 22 0 30 51 33 47 49 15 
+4 10 10 10 -1 4 4 3 5 10 4 
+Step 8: 
+52 32 55 22 0 30 51 33 47 49 15 
+4 10 10 10 -1 4 4 3 5 10 4 
+Step 9: 
+52 32 55 22 0 30 51 33 47 49 15 
+4 10 10 10 -1 4 4 3 5 10 4 
+Step 10: 
+52 32 55 22 0 30 51 33 47 49 15 
+4 10 10 10 -1 4 4 3 5 10 4 
+Step 0: 
+874 628 702 429 0 221 421 490 676 374 448 
+4 4 4 4 -1 4 4 4 4 4 4 
+Step 1: 
+52 33 78 56 0 30 51 42 64 67 15 
+4 4 4 4 -1 4 4 4 4 4 4 
+Step 2: 
+52 33 78 56 0 30 51 42 64 67 15 
+4 4 4 4 -1 4 4 4 4 4 4 
+Step 3: 
+52 32 55 22 0 30 51 42 47 49 15 
+4 10 10 10 -1 4 4 4 5 10 4 
+Step 4: 
+52 32 55 22 0 30 51 42 47 49 15 
+4 10 10 10 -1 4 4 4 5 10 4 
+Step 5: 
+52 32 55 22 0 30 51 33 47 49 15 
+4 10 10 10 -1 4 4 3 5 10 4 
+Step 6: 
+52 32 55 22 0 30 51 33 47 49 15 
+4 10 10 10 -1 4 4 3 5 10 4 
+Step 7: 
+52 32 55 22 0 30 51 33 47 49 15 
+4 10 10 10 -1 4 4 3 5 10 4 
+Step 8: 
+52 32 55 22 0 30 51 33 47 49 15 
+4 10 10 10 -1 4 4 3 5 10 4 
+Step 9: 
+52 32 55 22 0 30 51 33 47 49 15 
+4 10 10 10 -1 4 4 3 5 10 4 
+Step 10: 
+52 32 55 22 0 30 51 33 47 49 15 
+4 10 10 10 -1 4 4 3 5 10 4 
+A
+A B
+A B C
+A B C D
+A J E
+A B C D F
+A J G
+A B H
+A K I
+A J
+A K
+B A
+B
+B C
+B C D
+B C D E
+B C D F
+B C G
+B H
+B C D K I
+B C D J
+B C D K
+C D J A
+C D B
+C
+C D
+C D E
+C D F
+C G
+C D E H
+C D K I
+C D J
+C D K
+D J A
+D B
+D F C
+D
+D E
+D F
+D G
+D E H
+D K I
+D J
+D K
+E J A
+E K B
+E F C
+E D
+E
+E F
+E G
+E H
+E K I
+E J
+E K
+F J A
+F C D B
+F C
+F C D
+F C D E
+F
+F G
+F H
+F C D K I
+F J
+F C D K
+G J A
+G D B
+G D F C
+G D
+G D E
+G D F
+G
+G H
+G D K I
+G J
+G D K
+H J A
+H K B
+H K B C
+H K B C D
+H K B C D E
+H F
+H G
+H
+H K I
+H J
+H K
+I A
+I B
+I B C
+I B C D
+I B C D E
+I B C D F
+I G
+I H
+I
+I A J
+I H K
+J A
+J A B
+J C
+J C D
+J E
+J F
+J G
+J E H
+J E K I
+J
+J E K
+K I A
+K B
+K B C
+K B C D
+K B C D E
+K B C D F
+K I G
+K I H
+K I
+K J
+K
+A
+A B
+A C
+A K D
+A I E
+A F
+A C G
+A K D H
+A I
+A K J
+A K
+B C A
+B
+B C
+B K D
+B I E
+B F
+B G
+B K D H
+B I
+B C J
+B K
+C A
+C B
+C
+C G D
+C E
+C B F
+C G
+C G D H
+C A I
+C J
+C A K
+D C A
+D B
+D C
+D
+D E
+D H F
+D C G
+D H
+D I
+D J
+D J K
+E A
+E K B
+E K C
+E K D
+E
+E F
+E G
+E K D H
+E F I
+E K J
+E K
+F C A
+F B
+F C
+F D
+F I E
+F
+F C G
+F H
+F I
+F C J
+F I E K
+G A
+G A B
+G D C
+G D
+G D E
+G F
+G
+G D H
+G A I
+G D J
+G A K
+H D C A
+H D B
+H D C
+H D
+H I E
+H F
+H D C G
+H
+H I
+H D J
+H D J K
+I A
+I E K B
+I C
+I D
+I E
+I E F
+I E G
+I D H
+I
+I E K J
+I E K
+J A
+J K B
+J F C
+J K D
+J E
+J F
+J F C G
+J K D H
+J F I
+J
+J K
+K C A
+K B
+K C
+K D
+K E
+K F
+K C G
+K D H
+K B I
+K J
+K

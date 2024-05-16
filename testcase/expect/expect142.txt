@@ -1,0 +1,341 @@
+Step 0: 
+712 1 844 205 989 343 0 908 215 171 565 
+6 6 6 6 6 6 -1 6 6 6 6 
+Step 1: 
+217 1 304 205 361 343 0 885 215 171 250 
+9 6 9 6 5 6 -1 5 6 6 1 
+Step 2: 
+217 1 304 205 361 343 0 685 215 171 250 
+9 6 9 6 5 6 -1 2 6 6 1 
+Step 3: 
+217 1 304 205 361 343 0 685 215 171 250 
+9 6 9 6 5 6 -1 2 6 6 1 
+Step 4: 
+217 1 304 205 361 343 0 685 215 171 250 
+9 6 9 6 5 6 -1 2 6 6 1 
+Step 5: 
+217 1 304 205 361 343 0 685 215 171 250 
+9 6 9 6 5 6 -1 2 6 6 1 
+Step 6: 
+217 1 304 205 361 343 0 685 215 171 250 
+9 6 9 6 5 6 -1 2 6 6 1 
+Step 7: 
+217 1 304 205 361 343 0 685 215 171 250 
+9 6 9 6 5 6 -1 2 6 6 1 
+Step 8: 
+217 1 304 205 361 343 0 685 215 171 250 
+9 6 9 6 5 6 -1 2 6 6 1 
+Step 9: 
+217 1 304 205 361 343 0 685 215 171 250 
+9 6 9 6 5 6 -1 2 6 6 1 
+Step 10: 
+217 1 304 205 361 343 0 685 215 171 250 
+9 6 9 6 5 6 -1 2 6 6 1 
+Step 0: 
+9 17 56 22 82 22 0 13 78 29 81 
+6 6 6 6 6 6 -1 6 6 6 6 
+Step 1: 
+9 17 27 22 33 22 0 13 27 20 29 
+6 6 1 6 9 6 -1 6 7 7 0 
+Step 2: 
+9 17 27 22 24 22 0 13 27 20 29 
+6 6 1 6 9 6 -1 6 7 7 0 
+Step 3: 
+9 17 27 22 24 22 0 13 27 20 29 
+6 6 1 6 9 6 -1 6 7 7 0 
+Step 4: 
+9 17 27 22 24 22 0 13 27 20 29 
+6 6 1 6 9 6 -1 6 7 7 0 
+Step 5: 
+9 17 27 22 24 22 0 13 27 20 29 
+6 6 1 6 9 6 -1 6 7 7 0 
+Step 6: 
+9 17 27 22 24 22 0 13 27 20 29 
+6 6 1 6 9 6 -1 6 7 7 0 
+Step 7: 
+9 17 27 22 24 22 0 13 27 20 29 
+6 6 1 6 9 6 -1 6 7 7 0 
+Step 8: 
+9 17 27 22 24 22 0 13 27 20 29 
+6 6 1 6 9 6 -1 6 7 7 0 
+Step 9: 
+9 17 27 22 24 22 0 13 27 20 29 
+6 6 1 6 9 6 -1 6 7 7 0 
+Step 10: 
+9 17 27 22 24 22 0 13 27 20 29 
+6 6 1 6 9 6 -1 6 7 7 0 
+Step 0: 
+712 1 844 205 989 343 0 908 215 171 565 
+6 6 6 6 6 6 -1 6 6 6 6 
+Step 1: 
+9 1 11 6 20 22 0 13 69 29 71 
+6 6 1 1 1 6 -1 6 1 6 1 
+Step 2: 
+9 1 11 6 20 22 0 13 69 29 71 
+6 6 1 1 1 6 -1 6 1 6 1 
+Step 3: 
+9 1 11 6 12 12 0 13 13 20 29 
+6 6 1 1 2 2 -1 6 3 7 0 
+Step 4: 
+9 1 11 6 12 12 0 13 13 20 29 
+6 6 1 1 2 2 -1 6 3 7 0 
+Step 5: 
+9 1 11 6 12 12 0 13 13 20 29 
+6 6 1 1 2 2 -1 6 3 7 0 
+Step 6: 
+9 1 11 6 12 12 0 13 13 20 29 
+6 6 1 1 2 2 -1 6 3 7 0 
+Step 7: 
+9 1 11 6 12 12 0 13 13 20 29 
+6 6 1 1 2 2 -1 6 3 7 0 
+Step 8: 
+9 1 11 6 12 12 0 13 13 20 29 
+6 6 1 1 2 2 -1 6 3 7 0 
+Step 9: 
+9 1 11 6 12 12 0 13 13 20 29 
+6 6 1 1 2 2 -1 6 3 7 0 
+Step 10: 
+9 1 11 6 12 12 0 13 13 20 29 
+6 6 1 1 2 2 -1 6 3 7 0 
+A
+A F G B
+A F E D C
+A F E D
+A F E
+A F
+A F G
+A F H
+A F G I
+A J
+A F K
+B J A
+B
+B K C
+B G D
+B K C E
+B K C F
+B G
+B K C H
+B G I
+B J
+B K
+C E A
+C F G B
+C
+C E D
+C E
+C F
+C F G
+C H
+C F G I
+C F G J
+C E K
+D F A
+D F G B
+D C
+D
+D F E
+D F
+D F G
+D C H
+D F G I
+D J
+D F K
+E A
+E D F G B
+E D C
+E D
+E
+E D F
+E D F G
+E D C H
+E D F G I
+E D J
+E K
+F A
+F G B
+F E D C
+F E D
+F E
+F
+F G
+F H
+F G I
+F G J
+F K
+G J A
+G B
+G J C
+G D
+G F E
+G F
+G
+G J C H
+G I
+G J
+G B K
+H E A
+H E D F G B
+H C
+H E D
+H E
+H E D F
+H E D F G
+H
+H E D F G I
+H E D J
+H E K
+I J A
+I B
+I J C
+I D
+I J C E
+I D F
+I B G
+I J C H
+I
+I J
+I B K
+J A
+J A F G B
+J C
+J C E D
+J C E
+J A F
+J A F G
+J C H
+J A F G I
+J
+J C E K
+K C E A
+K C F G B
+K C
+K C E D
+K C E
+K C F
+K C F G
+K C H
+K C F G I
+K J
+K
+A
+A J H B
+A C
+A C D
+A J E
+A C F
+A K G
+A J H
+A I
+A J
+A K
+B A
+B
+B C
+B D
+B C E
+B C F
+B D I G
+B C E H
+B D I
+B D J
+B D I K
+C D I G A
+C E H B
+C
+C D
+C E
+C F
+C D I G
+C E H
+C D I
+C D J
+C F K
+D I G A
+D I G B
+D I G B C
+D
+D E
+D E F
+D I G
+D E H
+D I
+D J
+D I K
+E G A
+E H B
+E H B C
+E H D
+E
+E F
+E G
+E H
+E H I
+E H J
+E F K
+F G A
+F H B
+F H B C
+F H D
+F I J E
+F
+F G
+F H
+F I
+F I J
+F K
+G A
+G B
+G B C
+G B D
+G H J E
+G F
+G
+G H
+G H I
+G H J
+G A K
+H I G A
+H B
+H B C
+H D
+H J E
+H B C F
+H I G
+H
+H I
+H J
+H J K
+I G A
+I G B
+I G B C
+I G B D
+I J E
+I G F
+I G
+I G H
+I
+I J
+I K
+J D I G A
+J H B
+J H B C
+J D
+J E
+J E F
+J D I G
+J H
+J D I
+J
+J K
+K G A
+K G B
+K G B C
+K G B D
+K G H J E
+K G F
+K G
+K G H
+K G H I
+K G H J
+K

@@ -1,0 +1,68 @@
+Step 0: 
+11 17 12 0 
+3 3 3 -1 
+Step 1: 
+11 17 12 0 
+3 3 3 -1 
+Step 2: 
+11 17 12 0 
+3 3 3 -1 
+Step 3: 
+11 17 12 0 
+3 3 3 -1 
+Step 0: 
+48 87 43 0 
+3 3 3 -1 
+Step 1: 
+48 87 43 0 
+3 3 3 -1 
+Step 2: 
+48 87 43 0 
+3 3 3 -1 
+Step 3: 
+48 87 43 0 
+3 3 3 -1 
+Step 0: 
+11 17 12 0 
+3 3 3 -1 
+Step 1: 
+11 17 12 0 
+3 3 3 -1 
+Step 2: 
+11 17 12 0 
+3 3 3 -1 
+Step 3: 
+11 17 12 0 
+3 3 3 -1 
+A
+A B
+A B C
+A B D
+B D A
+B
+B C
+B D
+C A
+C B
+C
+C D
+D A
+D A B
+D C
+D
+A
+A B
+A C
+A D
+B A
+B
+B D C
+B D
+C A
+C B
+C
+C D
+D A
+D B
+D C
+D

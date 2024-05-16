@@ -1,0 +1,68 @@
+Step 0: 
+32 29 0 34 
+2 2 -1 2 
+Step 1: 
+32 29 0 34 
+2 2 -1 2 
+Step 2: 
+32 29 0 34 
+2 2 -1 2 
+Step 3: 
+32 29 0 34 
+2 2 -1 2 
+Step 0: 
+9 11 0 26 
+2 2 -1 2 
+Step 1: 
+9 11 0 21 
+2 2 -1 0 
+Step 2: 
+9 11 0 21 
+2 2 -1 0 
+Step 3: 
+9 11 0 21 
+2 2 -1 0 
+Step 0: 
+32 29 0 34 
+2 2 -1 2 
+Step 1: 
+9 11 0 26 
+2 2 -1 2 
+Step 2: 
+9 11 0 26 
+2 2 -1 2 
+Step 3: 
+9 11 0 21 
+2 2 -1 0 
+A
+A C B
+A C
+A C D
+B C A
+B
+B C
+B D
+C A
+C B
+C
+C D
+D A
+D C B
+D C
+D
+A
+A D B
+A C
+A D
+B C A
+B
+B C
+B C A D
+C A
+C B
+C
+C A D
+D A
+D B
+D B C
+D

@@ -1,0 +1,95 @@
+Step 0: 
+50 91 0 39 85 
+2 2 -1 2 2 
+Step 1: 
+50 50 0 39 54 
+2 3 -1 2 0 
+Step 2: 
+50 50 0 39 54 
+2 3 -1 2 0 
+Step 3: 
+50 50 0 39 54 
+2 3 -1 2 0 
+Step 4: 
+50 50 0 39 54 
+2 3 -1 2 0 
+Step 0: 
+31 78 0 41 55 
+2 2 -1 2 2 
+Step 1: 
+31 56 0 41 49 
+2 0 -1 2 3 
+Step 2: 
+31 56 0 41 49 
+2 0 -1 2 3 
+Step 3: 
+31 56 0 41 49 
+2 0 -1 2 3 
+Step 4: 
+31 56 0 41 49 
+2 0 -1 2 3 
+Step 0: 
+50 91 0 39 85 
+2 2 -1 2 2 
+Step 1: 
+31 75 0 39 47 
+2 0 -1 2 3 
+Step 2: 
+31 50 0 39 35 
+2 3 -1 2 0 
+Step 3: 
+31 50 0 39 35 
+2 3 -1 2 0 
+Step 4: 
+31 50 0 39 35 
+2 3 -1 2 0 
+A
+A B
+A C
+A D
+A E
+B D A
+B
+B D C
+B D
+B D A E
+C A
+C D B
+C
+C D
+C A E
+D A
+D B
+D C
+D
+D A E
+E A
+E B
+E C
+E D
+E
+A
+A B
+A C
+A D
+A D E
+B A
+B
+B A C
+B A D
+B A D E
+C A
+C A B
+C
+C D
+C D E
+D E A
+D E A B
+D E C
+D
+D E
+E A
+E A B
+E C
+E A D
+E

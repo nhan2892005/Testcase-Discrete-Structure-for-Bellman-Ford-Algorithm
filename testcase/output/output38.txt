@@ -1,0 +1,126 @@
+Step 0: 
+55 25 75 64 0 83 
+4 4 4 4 -1 4 
+Step 1: 
+38 25 37 64 0 76 
+1 4 1 4 -1 1 
+Step 2: 
+38 25 37 64 0 76 
+1 4 1 4 -1 1 
+Step 3: 
+38 25 37 64 0 76 
+1 4 1 4 -1 1 
+Step 4: 
+38 25 37 64 0 76 
+1 4 1 4 -1 1 
+Step 5: 
+38 25 37 64 0 76 
+1 4 1 4 -1 1 
+Step 0: 
+60 43 33 24 0 27 
+4 4 4 4 -1 4 
+Step 1: 
+60 43 33 24 0 27 
+4 4 4 4 -1 4 
+Step 2: 
+60 43 33 24 0 27 
+4 4 4 4 -1 4 
+Step 3: 
+60 43 33 24 0 27 
+4 4 4 4 -1 4 
+Step 4: 
+60 43 33 24 0 27 
+4 4 4 4 -1 4 
+Step 5: 
+60 43 33 24 0 27 
+4 4 4 4 -1 4 
+Step 0: 
+55 25 75 64 0 83 
+4 4 4 4 -1 4 
+Step 1: 
+55 25 33 24 0 27 
+4 4 4 4 -1 4 
+Step 2: 
+30 25 33 24 0 27 
+5 4 4 4 -1 4 
+Step 3: 
+30 25 33 24 0 27 
+5 4 4 4 -1 4 
+Step 4: 
+30 25 33 24 0 27 
+5 4 4 4 -1 4 
+Step 5: 
+30 25 33 24 0 27 
+5 4 4 4 -1 4 
+A
+A B
+A B C
+A D
+A F E
+A F
+B A
+B
+B C
+B C D
+B F E
+B F
+C D A
+C D B
+C
+C D
+C E
+C D F
+D A
+D B
+D B C
+D
+D F E
+D F
+E B A
+E B
+E B C
+E D
+E
+E B F
+F A
+F D B
+F D B C
+F D
+F E
+F
+A
+A E B
+A C
+A E D
+A E
+A F
+B A
+B
+B E C
+B D
+B E
+B D F
+C A
+C B
+C
+C D
+C E
+C D F
+D A
+D F B
+D F C
+D
+D F C E
+D F
+E A
+E B
+E C
+E D
+E
+E F
+F C A
+F B
+F C
+F C D
+F C E
+F

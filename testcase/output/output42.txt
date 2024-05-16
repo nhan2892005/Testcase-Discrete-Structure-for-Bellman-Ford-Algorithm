@@ -1,0 +1,95 @@
+Step 0: 
+30 54 0 55 10 
+2 2 -1 2 2 
+Step 1: 
+13 47 0 55 10 
+4 4 -1 2 2 
+Step 2: 
+13 47 0 50 10 
+4 4 -1 1 2 
+Step 3: 
+13 47 0 50 10 
+4 4 -1 1 2 
+Step 4: 
+13 47 0 50 10 
+4 4 -1 1 2 
+Step 0: 
+85 63 0 47 58 
+2 2 -1 2 2 
+Step 1: 
+60 63 0 47 58 
+4 2 -1 2 2 
+Step 2: 
+60 63 0 47 58 
+4 2 -1 2 2 
+Step 3: 
+60 63 0 47 58 
+4 2 -1 2 2 
+Step 4: 
+60 63 0 47 58 
+4 2 -1 2 2 
+Step 0: 
+30 54 0 55 10 
+2 2 -1 2 2 
+Step 1: 
+12 33 0 18 10 
+4 0 -1 4 2 
+Step 2: 
+12 33 0 18 10 
+4 0 -1 4 2 
+Step 3: 
+12 15 0 18 10 
+4 0 -1 4 2 
+Step 4: 
+12 15 0 18 10 
+4 0 -1 4 2 
+A
+A B
+A C
+A D
+A E
+B E A
+B
+B C
+B D
+B E
+C E A
+C E B
+C
+C E B D
+C E
+D B E A
+D B
+D B C
+D
+D B E
+E A
+E B
+E B C
+E B D
+E
+A
+A B
+A C
+A B E D
+A B E
+B E A
+B
+B E C
+B E D
+B E
+C E A
+C E A B
+C
+C D
+C E
+D A
+D A B
+D A C
+D
+D A B E
+E A
+E A B
+E C
+E D
+E

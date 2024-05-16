@@ -1,0 +1,161 @@
+Step 0: 
+978 75 305 62 821 895 0 
+6 6 6 6 6 6 -1 
+Step 1: 
+399 75 305 62 469 313 0 
+3 6 6 6 1 1 -1 
+Step 2: 
+332 75 305 62 469 313 0 
+5 6 6 6 1 1 -1 
+Step 3: 
+332 75 305 62 469 313 0 
+5 6 6 6 1 1 -1 
+Step 4: 
+332 75 305 62 469 313 0 
+5 6 6 6 1 1 -1 
+Step 5: 
+332 75 305 62 469 313 0 
+5 6 6 6 1 1 -1 
+Step 6: 
+332 75 305 62 469 313 0 
+5 6 6 6 1 1 -1 
+Step 0: 
+46 66 78 94 39 24 0 
+6 6 6 6 6 6 -1 
+Step 1: 
+26 35 50 44 39 24 0 
+5 5 5 5 6 6 -1 
+Step 2: 
+26 30 50 44 33 24 0 
+5 0 5 5 0 6 -1 
+Step 3: 
+26 30 46 44 33 24 0 
+5 0 1 5 0 6 -1 
+Step 4: 
+26 30 46 44 33 24 0 
+5 0 1 5 0 6 -1 
+Step 5: 
+26 30 46 44 33 24 0 
+5 0 1 5 0 6 -1 
+Step 6: 
+26 30 46 44 33 24 0 
+5 0 1 5 0 6 -1 
+Step 0: 
+978 75 305 62 821 895 0 
+6 6 6 6 6 6 -1 
+Step 1: 
+46 66 78 62 39 24 0 
+6 6 6 6 6 6 -1 
+Step 2: 
+43 66 78 62 39 24 0 
+5 6 6 6 6 6 -1 
+Step 3: 
+26 35 50 44 39 24 0 
+5 5 5 5 6 6 -1 
+Step 4: 
+26 35 50 44 39 24 0 
+5 5 5 5 6 6 -1 
+Step 5: 
+26 30 50 44 33 24 0 
+5 0 5 5 0 6 -1 
+Step 6: 
+26 30 50 44 33 24 0 
+5 0 5 5 0 6 -1 
+A
+A F G B
+A C
+A D
+A E
+A F
+A F G
+B F A
+B
+B F C
+B D
+B E
+B F
+B G
+C G B F A
+C G B
+C
+C D
+C G B E
+C G B F
+C G
+D A
+D B
+D B F C
+D
+D B E
+D B F
+D B G
+E D A
+E D B
+E C
+E D
+E
+E D B F
+E G
+F A
+F G B
+F C
+F G D
+F E
+F
+F G
+G B F A
+G B
+G C
+G D
+G B E
+G B F
+G
+A
+A B
+A B C
+A B C D
+A E
+A E F
+A B G
+B G F A
+B
+B C
+B C D
+B G F A E
+B G F
+B G
+C A
+C B
+C
+C D
+C A E
+C A E F
+C D G
+D E F A
+D E F A B
+D C
+D
+D E
+D E F
+D G
+E F A
+E F A B
+E F A B C
+E F D
+E
+E F
+E F G
+F A
+F A B
+F A B C
+F D
+F A E
+F
+F G
+G F A
+G F A B
+G F A B C
+G F D
+G F A E
+G F
+G

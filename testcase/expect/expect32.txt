@@ -1,0 +1,68 @@
+Step 0: 
+62 1 0 64 
+2 2 -1 2 
+Step 1: 
+62 1 0 27 
+2 2 -1 1 
+Step 2: 
+62 1 0 27 
+2 2 -1 1 
+Step 3: 
+62 1 0 27 
+2 2 -1 1 
+Step 0: 
+88 65 0 98 
+2 2 -1 2 
+Step 1: 
+68 65 0 98 
+1 2 -1 2 
+Step 2: 
+68 65 0 98 
+1 2 -1 2 
+Step 3: 
+68 65 0 98 
+1 2 -1 2 
+Step 0: 
+62 1 0 64 
+2 2 -1 2 
+Step 1: 
+4 1 0 62 
+1 2 -1 1 
+Step 2: 
+4 1 0 27 
+1 2 -1 1 
+Step 3: 
+4 1 0 27 
+1 2 -1 1 
+A
+A C B
+A C
+A C B D
+B D A
+B
+B D C
+B D
+C A
+C B
+C
+C B D
+D A
+D C B
+D C
+D
+A
+A B
+A C
+A D
+B A
+B
+B C
+B D
+C B A
+C B
+C
+C D
+D B A
+D B
+D C
+D

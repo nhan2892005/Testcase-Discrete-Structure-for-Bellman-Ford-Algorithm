@@ -1,0 +1,68 @@
+Step 0: 
+182 0 894 602 
+1 -1 1 1 
+Step 1: 
+182 0 578 602 
+1 -1 0 1 
+Step 2: 
+182 0 578 580 
+1 -1 0 2 
+Step 3: 
+182 0 578 580 
+1 -1 0 2 
+Step 0: 
+4 0 14 50 
+1 -1 1 1 
+Step 1: 
+4 0 14 15 
+1 -1 1 0 
+Step 2: 
+4 0 14 15 
+1 -1 1 0 
+Step 3: 
+4 0 14 15 
+1 -1 1 0 
+Step 0: 
+182 0 894 602 
+1 -1 1 1 
+Step 1: 
+4 0 14 50 
+1 -1 1 1 
+Step 2: 
+4 0 14 16 
+1 -1 1 2 
+Step 3: 
+4 0 14 15 
+1 -1 1 0 
+A
+A B
+A C
+A C D
+B A
+B
+B A C
+B A C D
+C A
+C D B
+C
+C D
+D A
+D B
+D C
+D
+A
+A B
+A D C
+A D
+B A
+B
+B C
+B A D
+C B A
+C B
+C
+C D
+D B A
+D B
+D C
+D

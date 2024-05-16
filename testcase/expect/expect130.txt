@@ -1,0 +1,200 @@
+Step 0: 
+928 698 0 428 100 487 946 932 
+2 2 -1 2 2 2 2 2 
+Step 1: 
+281 519 0 129 100 139 549 932 
+4 5 -1 4 2 4 5 2 
+Step 2: 
+281 171 0 129 100 139 201 932 
+4 5 -1 4 2 4 5 2 
+Step 3: 
+281 171 0 129 100 139 201 760 
+4 5 -1 4 2 4 5 1 
+Step 4: 
+281 171 0 129 100 139 201 760 
+4 5 -1 4 2 4 5 1 
+Step 5: 
+281 171 0 129 100 139 201 760 
+4 5 -1 4 2 4 5 1 
+Step 6: 
+281 171 0 129 100 139 201 760 
+4 5 -1 4 2 4 5 1 
+Step 7: 
+281 171 0 129 100 139 201 760 
+4 5 -1 4 2 4 5 1 
+Step 0: 
+21 19 0 34 52 77 51 34 
+2 2 -1 2 2 2 2 2 
+Step 1: 
+21 19 0 34 28 26 21 34 
+2 2 -1 2 1 1 1 2 
+Step 2: 
+21 19 0 34 28 22 21 34 
+2 2 -1 2 1 6 1 2 
+Step 3: 
+21 19 0 30 28 22 21 34 
+2 2 -1 5 1 6 1 2 
+Step 4: 
+21 19 0 30 28 22 21 34 
+2 2 -1 5 1 6 1 2 
+Step 5: 
+21 19 0 30 28 22 21 34 
+2 2 -1 5 1 6 1 2 
+Step 6: 
+21 19 0 30 28 22 21 34 
+2 2 -1 5 1 6 1 2 
+Step 7: 
+21 19 0 30 28 22 21 34 
+2 2 -1 5 1 6 1 2 
+Step 0: 
+928 698 0 428 100 487 946 932 
+2 2 -1 2 2 2 2 2 
+Step 1: 
+21 19 0 34 52 77 51 34 
+2 2 -1 2 2 2 2 2 
+Step 2: 
+21 19 0 34 52 77 51 34 
+2 2 -1 2 2 2 2 2 
+Step 3: 
+21 19 0 34 28 26 21 34 
+2 2 -1 2 1 1 1 2 
+Step 4: 
+21 19 0 34 28 26 21 34 
+2 2 -1 2 1 1 1 2 
+Step 5: 
+21 19 0 34 28 22 21 34 
+2 2 -1 2 1 6 1 2 
+Step 6: 
+21 19 0 34 28 22 21 34 
+2 2 -1 2 1 6 1 2 
+Step 7: 
+21 19 0 30 28 22 21 34 
+2 2 -1 5 1 6 1 2 
+A
+A F B
+A F B C
+A D
+A E
+A F
+A F G
+A F B H
+B A
+B
+B C
+B A D
+B E
+B A F
+B A F G
+B H
+C E A
+C E F B
+C
+C E D
+C E
+C E F
+C E F G
+C E F B H
+D A
+D E F B
+D C
+D
+D E
+D E F
+D E F G
+D H
+E A
+E F B
+E C
+E D
+E
+E F
+E F G
+E F B H
+F B A
+F B
+F B C
+F D
+F B E
+F
+F G
+F B H
+G A
+G F B
+G F B C
+G A D
+G E
+G F
+G
+G H
+H E A
+H E F B
+H E C
+H E D
+H E
+H E F
+H E F G
+H
+A
+A H F D C B
+A H F D C
+A H F D
+A H E
+A H F
+A H G
+A H
+B G F D A
+B
+B C
+B G F D
+B E
+B G F
+B G
+B G F H
+C A
+C B
+C
+C B G F D
+C B E
+C B G F
+C B G
+C H
+D A
+D C B
+D C
+D
+D C B E
+D F
+D F G
+D A H
+E G F D A
+E G F D C B
+E G F D C
+E G F D
+E
+E G F
+E G
+E G F H
+F D A
+F D C B
+F D C
+F D
+F H E
+F
+F G
+F H
+G F D A
+G F D C B
+G F D C
+G F D
+G E
+G F
+G
+G F H
+H A
+H F D C B
+H F D C
+H F D
+H E
+H F
+H G
+H

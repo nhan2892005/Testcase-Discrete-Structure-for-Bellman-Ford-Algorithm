@@ -1,0 +1,126 @@
+Step 0: 
+0 38 34 59 53 38 
+-1 0 0 0 0 0 
+Step 1: 
+0 38 34 59 53 38 
+-1 0 0 0 0 0 
+Step 2: 
+0 38 34 59 53 38 
+-1 0 0 0 0 0 
+Step 3: 
+0 38 34 59 53 38 
+-1 0 0 0 0 0 
+Step 4: 
+0 38 34 59 53 38 
+-1 0 0 0 0 0 
+Step 5: 
+0 38 34 59 53 38 
+-1 0 0 0 0 0 
+Step 0: 
+0 61 24 29 14 63 
+-1 0 0 0 0 0 
+Step 1: 
+0 41 24 19 14 63 
+-1 4 0 4 0 0 
+Step 2: 
+0 41 24 19 14 63 
+-1 4 0 4 0 0 
+Step 3: 
+0 41 24 19 14 63 
+-1 4 0 4 0 0 
+Step 4: 
+0 41 24 19 14 63 
+-1 4 0 4 0 0 
+Step 5: 
+0 41 24 19 14 63 
+-1 4 0 4 0 0 
+Step 0: 
+0 38 34 59 53 38 
+-1 0 0 0 0 0 
+Step 1: 
+0 38 24 29 14 38 
+-1 0 0 0 0 0 
+Step 2: 
+0 22 24 29 14 38 
+-1 4 0 0 0 0 
+Step 3: 
+0 22 24 19 14 38 
+-1 4 0 4 0 0 
+Step 4: 
+0 22 24 19 14 38 
+-1 4 0 4 0 0 
+Step 5: 
+0 22 24 19 14 38 
+-1 4 0 4 0 0 
+A
+A B
+A C
+A D
+A E
+A F
+B D A
+B
+B C
+B D
+B D E
+B D F
+C F A
+C F E B
+C
+C F D
+C F E
+C F
+D A
+D B
+D A C
+D
+D E
+D F
+E A
+E B
+E C
+E B D
+E
+E B D F
+F A
+F E B
+F A C
+F D
+F E
+F
+A
+A E B
+A C
+A E D
+A E
+A E D F
+B E A
+B
+B C
+B E D
+B E
+B C F
+C E A
+C F B
+C
+C E D
+C E
+C F
+D A
+D B
+D B C
+D
+D A E
+D F
+E A
+E B
+E B C
+E D
+E
+E D F
+F A
+F B
+F B C
+F A E D
+F A E
+F

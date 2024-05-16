@@ -1,0 +1,68 @@
+Step 0: 
+8 71 31 0 
+3 3 3 -1 
+Step 1: 
+8 63 13 0 
+3 0 0 -1 
+Step 2: 
+8 63 13 0 
+3 0 0 -1 
+Step 3: 
+8 63 13 0 
+3 0 0 -1 
+Step 0: 
+44 89 48 0 
+3 3 3 -1 
+Step 1: 
+44 50 48 0 
+3 0 3 -1 
+Step 2: 
+44 50 48 0 
+3 0 3 -1 
+Step 3: 
+44 50 48 0 
+3 0 3 -1 
+Step 0: 
+8 71 31 0 
+3 3 3 -1 
+Step 1: 
+8 14 31 0 
+3 0 3 -1 
+Step 2: 
+8 14 13 0 
+3 0 0 -1 
+Step 3: 
+8 14 13 0 
+3 0 0 -1 
+A
+A B
+A C
+A C D
+B A
+B
+B A C
+B A C D
+C D A
+C D A B
+C
+C D
+D A
+D A B
+D A C
+D
+A
+A B
+A C
+A B D
+B A
+B
+B D C
+B D
+C A
+C B
+C
+C D
+D A
+D A B
+D C
+D

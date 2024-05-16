@@ -1,0 +1,95 @@
+Step 0: 
+462 817 0 764 732 
+2 2 -1 2 2 
+Step 1: 
+462 638 0 764 598 
+2 0 -1 2 0 
+Step 2: 
+462 638 0 764 598 
+2 0 -1 2 0 
+Step 3: 
+462 638 0 764 598 
+2 0 -1 2 0 
+Step 4: 
+462 638 0 764 598 
+2 0 -1 2 0 
+Step 0: 
+48 47 0 5 84 
+2 2 -1 2 2 
+Step 1: 
+26 46 0 5 80 
+3 3 -1 2 3 
+Step 2: 
+26 46 0 5 80 
+3 3 -1 2 3 
+Step 3: 
+26 46 0 5 80 
+3 3 -1 2 3 
+Step 4: 
+26 46 0 5 80 
+3 3 -1 2 3 
+Step 0: 
+462 817 0 764 732 
+2 2 -1 2 2 
+Step 1: 
+48 47 0 5 84 
+2 2 -1 2 2 
+Step 2: 
+48 47 0 5 84 
+2 2 -1 2 2 
+Step 3: 
+26 46 0 5 80 
+3 3 -1 2 3 
+Step 4: 
+26 46 0 5 80 
+3 3 -1 2 3 
+A
+A B
+A C
+A E D
+A E
+B A
+B
+B C
+B D
+B A E
+C A
+C A B
+C
+C D
+C A E
+D C A
+D B
+D C
+D
+D E
+E A
+E B
+E D C
+E D
+E
+A
+A B
+A C
+A C D
+A E
+B A
+B
+B D C
+B D
+B E
+C D A
+C D B
+C
+C D
+C D E
+D A
+D B
+D C
+D
+D E
+E B A
+E B
+E B D C
+E B D
+E

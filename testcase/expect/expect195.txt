@@ -1,0 +1,200 @@
+Step 0: 
+872 444 843 0 919 340 918 97 
+3 3 3 -1 3 3 3 3 
+Step 1: 
+410 444 843 0 605 340 373 97 
+5 3 3 -1 5 3 5 3 
+Step 2: 
+410 444 843 0 578 340 373 97 
+5 3 3 -1 6 3 5 3 
+Step 3: 
+410 444 843 0 578 340 373 97 
+5 3 3 -1 6 3 5 3 
+Step 4: 
+410 444 843 0 578 340 373 97 
+5 3 3 -1 6 3 5 3 
+Step 5: 
+410 444 843 0 578 340 373 97 
+5 3 3 -1 6 3 5 3 
+Step 6: 
+410 444 843 0 578 340 373 97 
+5 3 3 -1 6 3 5 3 
+Step 7: 
+410 444 843 0 578 340 373 97 
+5 3 3 -1 6 3 5 3 
+Step 0: 
+37 66 51 0 91 94 79 41 
+3 3 3 -1 3 3 3 3 
+Step 1: 
+37 66 51 0 50 78 60 41 
+3 3 3 -1 0 0 7 3 
+Step 2: 
+37 66 51 0 50 78 60 41 
+3 3 3 -1 0 0 7 3 
+Step 3: 
+37 66 51 0 50 78 60 41 
+3 3 3 -1 0 0 7 3 
+Step 4: 
+37 66 51 0 50 78 60 41 
+3 3 3 -1 0 0 7 3 
+Step 5: 
+37 66 51 0 50 78 60 41 
+3 3 3 -1 0 0 7 3 
+Step 6: 
+37 66 51 0 50 78 60 41 
+3 3 3 -1 0 0 7 3 
+Step 7: 
+37 66 51 0 50 78 60 41 
+3 3 3 -1 0 0 7 3 
+Step 0: 
+872 444 843 0 919 340 918 97 
+3 3 3 -1 3 3 3 3 
+Step 1: 
+37 66 51 0 91 94 79 41 
+3 3 3 -1 3 3 3 3 
+Step 2: 
+37 66 51 0 91 94 41 41 
+3 3 3 -1 3 3 0 3 
+Step 3: 
+37 66 51 0 50 78 41 41 
+3 3 3 -1 0 0 0 3 
+Step 4: 
+37 66 51 0 50 78 41 41 
+3 3 3 -1 0 0 0 3 
+Step 5: 
+37 66 51 0 50 78 41 41 
+3 3 3 -1 0 0 0 3 
+Step 6: 
+37 66 51 0 50 78 41 41 
+3 3 3 -1 0 0 0 3 
+Step 7: 
+37 66 51 0 50 78 41 41 
+3 3 3 -1 0 0 0 3 
+A
+A G H B
+A G E C
+A G D
+A G E
+A G F
+A G
+A G H
+B G A
+B
+B C
+B D
+B G E
+B F
+B G
+B H
+C F A
+C B
+C
+C D
+C F G E
+C F
+C F G
+C F G H
+D F A
+D B
+D C
+D
+D F G E
+D F
+D F G
+D H
+E A
+E B
+E C
+E D
+E
+E C F
+E G
+E H
+F A
+F G H B
+F G E C
+F G D
+F G E
+F
+F G
+F G H
+G A
+G H B
+G E C
+G D
+G E
+G F
+G
+G H
+H A
+H B
+H C
+H D
+H A G E
+H F
+H A G
+H
+A
+A B
+A C
+A E D
+A E
+A F
+A G
+A E H
+B A
+B
+B F C
+B D
+B A E
+B F
+B G
+B A E H
+C A
+C B
+C
+C A E D
+C A E
+C A F
+C G
+C A E H
+D A
+D H B
+D C
+D
+D A E
+D A F
+D H G
+D H
+E A
+E H B
+E C
+E D
+E
+E A F
+E H G
+E H
+F A
+F A B
+F C
+F A E D
+F A E
+F
+F G
+F A E H
+G C A
+G H B
+G C
+G C A E D
+G C A E
+G C A F
+G
+G H
+H B A
+H B
+H G C
+H D
+H E
+H B F
+H G
+H

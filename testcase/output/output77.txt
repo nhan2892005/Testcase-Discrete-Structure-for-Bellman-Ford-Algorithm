@@ -1,0 +1,45 @@
+Step 0: 
+0 84 9 
+-1 0 0 
+Step 1: 
+0 68 9 
+-1 2 0 
+Step 2: 
+0 68 9 
+-1 2 0 
+Step 0: 
+0 60 88 
+-1 0 0 
+Step 1: 
+0 60 88 
+-1 0 0 
+Step 2: 
+0 60 88 
+-1 0 0 
+Step 0: 
+0 84 9 
+-1 0 0 
+Step 1: 
+0 60 9 
+-1 0 0 
+Step 2: 
+0 60 9 
+-1 0 0 
+A
+A C B
+A C
+B A
+B
+B A C
+C A
+C B
+C
+A
+A B
+A C
+B A
+B
+B C
+C A
+C B
+C

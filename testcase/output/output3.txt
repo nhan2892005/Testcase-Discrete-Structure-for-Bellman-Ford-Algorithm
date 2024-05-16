@@ -1,0 +1,126 @@
+Step 0: 
+62 92 12 1 61 0 
+5 5 5 5 5 -1 
+Step 1: 
+62 24 6 1 61 0 
+5 3 3 5 5 -1 
+Step 2: 
+61 24 6 1 57 0 
+2 3 3 5 2 -1 
+Step 3: 
+61 24 6 1 57 0 
+2 3 3 5 2 -1 
+Step 4: 
+61 24 6 1 57 0 
+2 3 3 5 2 -1 
+Step 5: 
+61 24 6 1 57 0 
+2 3 3 5 2 -1 
+Step 0: 
+7 91 73 60 52 0 
+5 5 5 5 5 -1 
+Step 1: 
+7 42 56 60 52 0 
+5 0 0 5 5 -1 
+Step 2: 
+7 42 56 60 52 0 
+5 0 0 5 5 -1 
+Step 3: 
+7 42 56 60 52 0 
+5 0 0 5 5 -1 
+Step 4: 
+7 42 56 60 52 0 
+5 0 0 5 5 -1 
+Step 5: 
+7 42 56 60 52 0 
+5 0 0 5 5 -1 
+Step 0: 
+62 92 12 1 61 0 
+5 5 5 5 5 -1 
+Step 1: 
+7 77 12 1 13 0 
+5 3 5 5 2 -1 
+Step 2: 
+7 24 6 1 13 0 
+5 3 3 5 2 -1 
+Step 3: 
+7 24 6 1 7 0 
+5 3 3 5 2 -1 
+Step 4: 
+7 24 6 1 7 0 
+5 3 3 5 2 -1 
+Step 5: 
+7 24 6 1 7 0 
+5 3 3 5 2 -1 
+A
+A B
+A C
+A F D
+A E
+A F
+B A
+B
+B E C
+B D
+B E
+B D F
+C A
+C D B
+C
+C D
+C E
+C D F
+D C A
+D B
+D C
+D
+D C E
+D F
+E C A
+E B
+E C
+E D
+E
+E D F
+F D C A
+F D B
+F D C
+F D
+F D C E
+F
+A
+A B
+A C
+A F D
+A C E
+A F
+B A
+B
+B C
+B D
+B C E
+B F
+C E F A
+C E F A B
+C
+C E D
+C E
+C E F
+D A
+D B
+D C
+D
+D E
+D E F
+E F A
+E F A B
+E C
+E D
+E
+E F
+F A
+F A B
+F A C
+F D
+F E
+F

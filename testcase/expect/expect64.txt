@@ -1,0 +1,45 @@
+Step 0: 
+19 41 0 
+2 2 -1 
+Step 1: 
+19 41 0 
+2 2 -1 
+Step 2: 
+19 41 0 
+2 2 -1 
+Step 0: 
+92 36 0 
+2 2 -1 
+Step 1: 
+37 36 0 
+1 2 -1 
+Step 2: 
+37 36 0 
+1 2 -1 
+Step 0: 
+19 41 0 
+2 2 -1 
+Step 1: 
+19 36 0 
+2 2 -1 
+Step 2: 
+19 36 0 
+2 2 -1 
+A
+A C B
+A C
+B A
+B
+B A C
+C A
+C B
+C
+A
+A B
+A C
+B A
+B
+B A C
+C B A
+C B
+C

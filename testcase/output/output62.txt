@@ -1,0 +1,200 @@
+Step 0: 
+0 44 38 15 12 81 36 2 
+-1 0 0 0 0 0 0 0 
+Step 1: 
+0 11 38 15 12 56 11 2 
+-1 7 0 0 0 1 7 0 
+Step 2: 
+0 11 38 15 12 23 11 2 
+-1 7 0 0 0 1 7 0 
+Step 3: 
+0 11 38 15 12 23 11 2 
+-1 7 0 0 0 1 7 0 
+Step 4: 
+0 11 38 15 12 23 11 2 
+-1 7 0 0 0 1 7 0 
+Step 5: 
+0 11 38 15 12 23 11 2 
+-1 7 0 0 0 1 7 0 
+Step 6: 
+0 11 38 15 12 23 11 2 
+-1 7 0 0 0 1 7 0 
+Step 7: 
+0 11 38 15 12 23 11 2 
+-1 7 0 0 0 1 7 0 
+Step 0: 
+0 83 80 92 2 23 4 12 
+-1 0 0 0 0 0 0 0 
+Step 1: 
+0 11 52 47 2 23 4 12 
+-1 4 4 7 0 0 0 0 
+Step 2: 
+0 11 52 15 2 23 4 12 
+-1 4 4 1 0 0 0 0 
+Step 3: 
+0 11 52 15 2 23 4 12 
+-1 4 4 1 0 0 0 0 
+Step 4: 
+0 11 52 15 2 23 4 12 
+-1 4 4 1 0 0 0 0 
+Step 5: 
+0 11 52 15 2 23 4 12 
+-1 4 4 1 0 0 0 0 
+Step 6: 
+0 11 52 15 2 23 4 12 
+-1 4 4 1 0 0 0 0 
+Step 7: 
+0 11 52 15 2 23 4 12 
+-1 4 4 1 0 0 0 0 
+Step 0: 
+0 44 38 15 12 81 36 2 
+-1 0 0 0 0 0 0 0 
+Step 1: 
+0 21 38 15 2 13 4 2 
+-1 4 0 0 0 7 0 0 
+Step 2: 
+0 11 38 14 2 13 4 2 
+-1 7 0 4 0 7 0 0 
+Step 3: 
+0 11 38 14 2 13 4 2 
+-1 7 0 4 0 7 0 0 
+Step 4: 
+0 11 38 14 2 13 4 2 
+-1 7 0 4 0 7 0 0 
+Step 5: 
+0 11 38 14 2 13 4 2 
+-1 7 0 4 0 7 0 0 
+Step 6: 
+0 11 38 14 2 13 4 2 
+-1 7 0 4 0 7 0 0 
+Step 7: 
+0 11 38 14 2 13 4 2 
+-1 7 0 4 0 7 0 0 
+A
+A H B
+A C
+A D
+A E
+A H B F
+A H G
+A H
+B A
+B
+B F C
+B A D
+B A E
+B F
+B A H G
+B A H
+C B A
+C B
+C
+C D
+C B A E
+C B F
+C G
+C B A H
+D H B A
+D H B
+D E C
+D
+D E
+D H B F
+D H G
+D H
+E A
+E B
+E C
+E D
+E
+E B F
+E A H G
+E A H
+F B A
+F B
+F C
+F E D
+F E
+F
+F C G
+F H
+G A
+G B
+G F C
+G A D
+G A E
+G F
+G
+G A H
+H B A
+H B
+H B F C
+H B A D
+H B A E
+H B F
+H G
+H
+A
+A E B
+A E C
+A E B D
+A E
+A H F
+A G
+A H
+B A
+B
+B D C
+B D
+B A E
+B H F
+B A G
+B H
+C A
+C B
+C
+C D
+C A E
+C H F
+C G
+C H
+D A
+D A E B
+D C
+D
+D A E
+D F
+D A G
+D A H
+E A
+E B
+E C
+E B D
+E
+E A H F
+E A G
+E A H
+F G E A
+F G B
+F C
+F G B D
+F G E
+F
+F G
+F G E A H
+G E A
+G B
+G C
+G B D
+G E
+G E A H F
+G
+G E A H
+H A
+H B
+H F C
+H D
+H A E
+H F
+H F G
+H

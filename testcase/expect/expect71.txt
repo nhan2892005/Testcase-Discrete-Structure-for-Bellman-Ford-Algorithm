@@ -1,0 +1,45 @@
+Step 0: 
+29 7 0 
+2 2 -1 
+Step 1: 
+29 7 0 
+2 2 -1 
+Step 2: 
+29 7 0 
+2 2 -1 
+Step 0: 
+93 92 0 
+2 2 -1 
+Step 1: 
+93 92 0 
+2 2 -1 
+Step 2: 
+93 92 0 
+2 2 -1 
+Step 0: 
+29 7 0 
+2 2 -1 
+Step 1: 
+29 7 0 
+2 2 -1 
+Step 2: 
+29 7 0 
+2 2 -1 
+A
+A B
+A B C
+B C A
+B
+B C
+C A
+C B
+C
+A
+A B
+A C
+B A
+B
+B C
+C A
+C B
+C

@@ -1,0 +1,68 @@
+Step 0: 
+43 78 7 0 
+3 3 3 -1 
+Step 1: 
+43 57 7 0 
+3 2 3 -1 
+Step 2: 
+43 57 7 0 
+3 2 3 -1 
+Step 3: 
+43 57 7 0 
+3 2 3 -1 
+Step 0: 
+45 94 63 0 
+3 3 3 -1 
+Step 1: 
+45 55 63 0 
+3 0 3 -1 
+Step 2: 
+45 55 63 0 
+3 0 3 -1 
+Step 3: 
+45 55 63 0 
+3 0 3 -1 
+Step 0: 
+43 78 7 0 
+3 3 3 -1 
+Step 1: 
+43 20 7 0 
+3 2 3 -1 
+Step 2: 
+43 20 7 0 
+3 2 3 -1 
+Step 3: 
+43 20 7 0 
+3 2 3 -1 
+A
+A B
+A C
+A D
+B A
+B
+B D C
+B D
+C A
+C B
+C
+C B D
+D A
+D C B
+D C
+D
+A
+A B
+A C
+A D
+B A
+B
+B C
+B D
+C B A
+C B
+C
+C D
+D A
+D A B
+D C
+D

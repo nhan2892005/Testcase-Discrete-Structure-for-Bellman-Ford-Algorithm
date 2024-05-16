@@ -1,0 +1,95 @@
+Step 0: 
+12 55 79 88 0 
+4 4 4 4 -1 
+Step 1: 
+12 55 40 85 0 
+4 4 0 0 -1 
+Step 2: 
+12 55 40 53 0 
+4 4 0 2 -1 
+Step 3: 
+12 55 40 53 0 
+4 4 0 2 -1 
+Step 4: 
+12 55 40 53 0 
+4 4 0 2 -1 
+Step 0: 
+28 62 62 80 0 
+4 4 4 4 -1 
+Step 1: 
+28 62 34 80 0 
+4 4 0 4 -1 
+Step 2: 
+28 62 34 55 0 
+4 4 0 2 -1 
+Step 3: 
+28 62 34 55 0 
+4 4 0 2 -1 
+Step 4: 
+28 62 34 55 0 
+4 4 0 2 -1 
+Step 0: 
+12 55 79 88 0 
+4 4 4 4 -1 
+Step 1: 
+12 55 18 80 0 
+4 4 0 4 -1 
+Step 2: 
+12 55 18 31 0 
+4 4 0 2 -1 
+Step 3: 
+12 55 18 31 0 
+4 4 0 2 -1 
+Step 4: 
+12 50 18 31 0 
+4 3 0 2 -1 
+A
+A B
+A C
+A C D
+A E
+B A
+B
+B C
+B C D
+B E
+C E A
+C D B
+C
+C D
+C E
+D B A
+D B
+D C
+D
+D E
+E A
+E B
+E A C
+E A C D
+E
+A
+A C E B
+A C
+A C D
+A C E
+B A
+B
+B A C
+B A C D
+B E
+C A
+C E B
+C
+C D
+C E
+D A
+D B
+D C
+D
+D C E
+E A
+E B
+E A C
+E A C D
+E

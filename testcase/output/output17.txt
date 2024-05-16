@@ -1,0 +1,95 @@
+Step 0: 
+61 59 1000000000 92 0 
+4 4 -1 4 -1 
+Step 1: 
+61 59 105 92 0 
+4 4 1 4 -1 
+Step 2: 
+61 59 105 92 0 
+4 4 1 4 -1 
+Step 3: 
+61 59 105 92 0 
+4 4 1 4 -1 
+Step 4: 
+61 59 105 92 0 
+4 4 1 4 -1 
+Step 0: 
+22 13 74 38 0 
+4 4 4 4 -1 
+Step 1: 
+14 13 58 38 0 
+1 4 1 4 -1 
+Step 2: 
+14 13 52 38 0 
+1 4 0 4 -1 
+Step 3: 
+14 13 52 38 0 
+1 4 0 4 -1 
+Step 4: 
+14 13 52 38 0 
+1 4 0 4 -1 
+Step 0: 
+61 59 1000000000 92 0 
+4 4 -1 4 -1 
+Step 1: 
+22 13 74 38 0 
+4 4 4 4 -1 
+Step 2: 
+22 13 59 38 0 
+4 4 1 4 -1 
+Step 3: 
+14 13 58 38 0 
+1 4 1 4 -1 
+Step 4: 
+14 13 58 38 0 
+1 4 1 4 -1 
+A
+A B
+A C
+A D
+A D E
+B C A
+B
+B C
+B C D
+B E
+C A
+C B
+C
+C D
+C E
+D C A
+D C B
+D C
+D
+D E
+E A
+E B
+E B C
+E D
+E
+A
+A B
+A C
+A D
+A C E
+B A
+B
+B A C
+B A D
+B E
+C B A
+C B
+C
+C B A D
+C E
+D B A
+D B
+D C
+D
+D E
+E B A
+E B
+E B A C
+E D
+E

@@ -1,0 +1,68 @@
+Step 0: 
+65 700 0 965 
+2 2 -1 2 
+Step 1: 
+65 688 0 162 
+2 0 -1 0 
+Step 2: 
+65 423 0 162 
+2 3 -1 0 
+Step 3: 
+65 423 0 162 
+2 3 -1 0 
+Step 0: 
+94 39 0 87 
+2 2 -1 2 
+Step 1: 
+92 39 0 69 
+1 2 -1 1 
+Step 2: 
+92 39 0 69 
+1 2 -1 1 
+Step 3: 
+92 39 0 69 
+1 2 -1 1 
+Step 0: 
+65 700 0 965 
+2 2 -1 2 
+Step 1: 
+65 39 0 87 
+2 2 -1 2 
+Step 2: 
+65 39 0 87 
+2 2 -1 2 
+Step 3: 
+65 39 0 69 
+2 2 -1 1 
+A
+A D B
+A D C
+A D
+B D A
+B
+B C
+B D
+C A
+C A D B
+C
+C A D
+D A
+D B
+D C
+D
+A
+A C B
+A C
+A D
+B A
+B
+B C
+B D
+C B A
+C B
+C
+C B D
+D A
+D B
+D B C
+D

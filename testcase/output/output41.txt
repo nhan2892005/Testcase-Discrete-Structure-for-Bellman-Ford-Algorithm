@@ -1,0 +1,45 @@
+Step 0: 
+0 65 95 
+-1 0 0 
+Step 1: 
+0 65 95 
+-1 0 0 
+Step 2: 
+0 65 95 
+-1 0 0 
+Step 0: 
+0 6 64 
+-1 0 0 
+Step 1: 
+0 6 17 
+-1 0 1 
+Step 2: 
+0 6 17 
+-1 0 1 
+Step 0: 
+0 65 95 
+-1 0 0 
+Step 1: 
+0 6 64 
+-1 0 0 
+Step 2: 
+0 6 38 
+-1 0 1 
+A
+A B
+A C
+B A
+B
+B C
+C B A
+C B
+C
+A
+A B
+A B C
+B A
+B
+B C
+C A
+C B
+C

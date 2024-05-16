@@ -1,0 +1,290 @@
+Step 0: 
+861 380 0 332 175 483 13 840 115 352 
+2 2 -1 2 2 2 2 2 2 2 
+Step 1: 
+493 83 0 328 175 267 13 503 115 352 
+8 6 -1 6 2 4 2 8 2 2 
+Step 2: 
+246 83 0 328 175 267 13 314 115 288 
+1 6 -1 6 2 4 2 1 2 5 
+Step 3: 
+246 83 0 328 175 267 13 314 115 288 
+1 6 -1 6 2 4 2 1 2 5 
+Step 4: 
+246 83 0 328 175 267 13 314 115 288 
+1 6 -1 6 2 4 2 1 2 5 
+Step 5: 
+246 83 0 328 175 267 13 314 115 288 
+1 6 -1 6 2 4 2 1 2 5 
+Step 6: 
+246 83 0 328 175 267 13 314 115 288 
+1 6 -1 6 2 4 2 1 2 5 
+Step 7: 
+246 83 0 328 175 267 13 314 115 288 
+1 6 -1 6 2 4 2 1 2 5 
+Step 8: 
+246 83 0 328 175 267 13 314 115 288 
+1 6 -1 6 2 4 2 1 2 5 
+Step 9: 
+246 83 0 328 175 267 13 314 115 288 
+1 6 -1 6 2 4 2 1 2 5 
+Step 0: 
+87 36 0 57 41 73 49 16 73 64 
+2 2 -1 2 2 2 2 2 2 2 
+Step 1: 
+66 36 0 57 24 48 49 16 45 64 
+1 2 -1 2 7 4 2 2 7 2 
+Step 2: 
+66 36 0 57 24 31 49 16 40 64 
+1 2 -1 2 7 4 2 2 4 2 
+Step 3: 
+66 36 0 52 24 31 49 16 40 64 
+1 2 -1 5 7 4 2 2 4 2 
+Step 4: 
+66 36 0 52 24 31 49 16 40 64 
+1 2 -1 5 7 4 2 2 4 2 
+Step 5: 
+66 36 0 52 24 31 49 16 40 64 
+1 2 -1 5 7 4 2 2 4 2 
+Step 6: 
+66 36 0 52 24 31 49 16 40 64 
+1 2 -1 5 7 4 2 2 4 2 
+Step 7: 
+66 36 0 52 24 31 49 16 40 64 
+1 2 -1 5 7 4 2 2 4 2 
+Step 8: 
+66 36 0 52 24 31 49 16 40 64 
+1 2 -1 5 7 4 2 2 4 2 
+Step 9: 
+66 36 0 52 24 31 49 16 40 64 
+1 2 -1 5 7 4 2 2 4 2 
+Step 0: 
+861 380 0 332 175 483 13 840 115 352 
+2 2 -1 2 2 2 2 2 2 2 
+Step 1: 
+44 36 0 57 41 73 13 16 62 45 
+6 2 -1 2 2 2 2 2 6 6 
+Step 2: 
+44 36 0 57 36 73 13 16 52 45 
+6 2 -1 2 7 2 2 2 9 6 
+Step 3: 
+44 36 0 57 24 43 13 16 45 45 
+6 2 -1 2 7 4 2 2 7 6 
+Step 4: 
+44 36 0 57 24 43 13 16 45 45 
+6 2 -1 2 7 4 2 2 7 6 
+Step 5: 
+44 36 0 57 24 31 13 16 40 45 
+6 2 -1 2 7 4 2 2 4 6 
+Step 6: 
+44 36 0 57 24 31 13 16 40 45 
+6 2 -1 2 7 4 2 2 4 6 
+Step 7: 
+44 36 0 52 24 31 13 16 40 45 
+6 2 -1 5 7 4 2 2 4 6 
+Step 8: 
+44 36 0 52 24 31 13 16 40 45 
+6 2 -1 5 7 4 2 2 4 6 
+Step 9: 
+44 36 0 52 24 31 13 16 40 45 
+6 2 -1 5 7 4 2 2 4 6 
+A
+A D B
+A I C
+A D
+A I E
+A I E F
+A I G
+A D B H
+A I
+A I E F J
+B A
+B
+B A I C
+B A D
+B H E
+B H F
+B G
+B H
+B A I
+B H F J
+C G B A
+C G B
+C
+C G D
+C E
+C E F
+C G
+C G B H
+C I
+C E F J
+D B A
+D B
+D I C
+D
+D I E
+D I E F
+D I G
+D B H
+D I
+D I E F J
+E F A
+E D B
+E F J I C
+E D
+E
+E F
+E F J I G
+E D B H
+E F J I
+E F J
+F A
+F J I G B
+F J I C
+F A D
+F J I E
+F
+F J I G
+F J I G B H
+F J I
+F J
+G B A
+G B
+G C
+G D
+G C E
+G B H F
+G
+G B H
+G C I
+G B H F J
+H F A
+H F J I G B
+H C
+H E D
+H E
+H F
+H F J I G
+H
+H F J I
+H F J
+I G B A
+I G B
+I C
+I E D
+I E
+I E F
+I G
+I G B H
+I
+I E F J
+J A
+J I G B
+J I C
+J D
+J I E
+J I E F
+J I G
+J I G B H
+J I
+J
+A
+A B
+A G C
+A F D
+A E
+A F
+A G
+A G H
+A E I
+A G J
+B A
+B
+B E I H C
+B E F D
+B E
+B E F
+B A G
+B E I H
+B E I
+B E I J
+C B A
+C B
+C
+C H E F D
+C H E
+C H E F
+C G
+C H
+C H E I
+C J
+D G A
+D I B
+D C
+D
+D E
+D E F
+D G
+D C H
+D I
+D J
+E I A
+E I B
+E I H C
+E F D
+E
+E F
+E I A G
+E I H
+E I
+E I J
+F I A
+F I B
+F H C
+F D
+F H E
+F
+F D G
+F H
+F I
+F J
+G A
+G A B
+G C
+G H E F D
+G H E
+G H E F
+G
+G H
+G H E I
+G J
+H E I A
+H E I B
+H C
+H E F D
+H E
+H E F
+H E I A G
+H
+H E I
+H J
+I A
+I B
+I H C
+I H E F D
+I H E
+I H E F
+I A G
+I H
+I
+I J
+J I A
+J I B
+J H C
+J D
+J E
+J E F
+J I A G
+J H
+J I
+J

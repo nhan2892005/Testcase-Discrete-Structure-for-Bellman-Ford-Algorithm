@@ -1,0 +1,95 @@
+Step 0: 
+86 62 1 9 0 
+4 4 4 4 -1 
+Step 1: 
+76 43 1 9 0 
+2 2 4 4 -1 
+Step 2: 
+76 43 1 9 0 
+2 2 4 4 -1 
+Step 3: 
+76 43 1 9 0 
+2 2 4 4 -1 
+Step 4: 
+76 43 1 9 0 
+2 2 4 4 -1 
+Step 0: 
+44 78 35 38 0 
+4 4 4 4 -1 
+Step 1: 
+44 78 35 38 0 
+4 4 4 4 -1 
+Step 2: 
+44 78 35 38 0 
+4 4 4 4 -1 
+Step 3: 
+44 78 35 38 0 
+4 4 4 4 -1 
+Step 4: 
+44 78 35 38 0 
+4 4 4 4 -1 
+Step 0: 
+86 62 1 9 0 
+4 4 4 4 -1 
+Step 1: 
+44 48 1 9 0 
+4 2 4 4 -1 
+Step 2: 
+44 43 1 9 0 
+4 2 4 4 -1 
+Step 3: 
+44 43 1 9 0 
+4 2 4 4 -1 
+Step 4: 
+44 43 1 9 0 
+4 2 4 4 -1 
+A
+A B
+A E C
+A E D
+A E
+B A
+B
+B A E C
+B D
+B A E
+C A
+C B
+C
+C E D
+C E
+D A
+D E C B
+D E C
+D
+D E
+E C A
+E C B
+E C
+E D
+E
+A
+A C B
+A C
+A C E D
+A C E
+B A
+B
+B C
+B D
+B C E
+C E A
+C B
+C
+C E D
+C E
+D A
+D C B
+D C
+D
+D C E
+E A
+E B
+E C
+E D
+E
