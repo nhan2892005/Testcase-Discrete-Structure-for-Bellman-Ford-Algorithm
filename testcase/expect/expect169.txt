@@ -93,7 +93,7 @@ A B
 A C
 A C D
 A C E
-A C E F
+A F
 B A
 B
 B C

@@ -200,7 +200,7 @@ A E I
 A G J
 B A
 B
-B E I H C
+B A G C
 B E F D
 B E
 B E F
@@ -240,7 +240,7 @@ E I
 E I J
 F I A
 F I B
-F H C
+F D C
 F D
 F H E
 F
@@ -271,9 +271,9 @@ H J
 I A
 I B
 I H C
-I H E F D
-I H E
-I H E F
+I B E F D
+I B E
+I B E F
 I A G
 I H
 I

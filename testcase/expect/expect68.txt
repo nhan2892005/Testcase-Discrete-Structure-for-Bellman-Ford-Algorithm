@@ -96,9 +96,9 @@ C A G
 C B F H
 D F A
 D B
-D F H E C
+D F A E C
 D
-D F H E
+D F A E
 D F
 D F A G
 D F H
@@ -112,9 +112,9 @@ E A G
 E B F H
 F A
 F A B
-F H E C
+F A E C
 F D
-F H E
+F A E
 F
 F A G
 F H
@@ -185,7 +185,7 @@ F B G H
 G A
 G B
 G C
-G H D
+G A D
 G E
 G C F
 G

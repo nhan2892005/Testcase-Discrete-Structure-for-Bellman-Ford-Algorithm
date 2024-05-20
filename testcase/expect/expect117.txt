@@ -149,15 +149,15 @@ B E D
 B E
 B F
 B E C G
-B F H
-C E A
+B H
+C A
 C B
 C
 C E D
 C E
 C B F
 C G
-C E A H
+C H
 D A
 D C B
 D C

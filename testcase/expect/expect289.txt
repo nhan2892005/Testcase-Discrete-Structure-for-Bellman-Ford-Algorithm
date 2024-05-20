@@ -134,9 +134,9 @@ Step 14:
 267 108 19 220 234 236 206 184 211 75 149 173 0 202 204 
 7 12 12 1 11 13 12 9 6 2 12 12 -1 7 2 
 A
-A G I F B
+A G K B
 A G K J C
-A G I F B D
+A G K B D
 A E
 A G I F
 A G
@@ -224,9 +224,9 @@ F G K J M
 F E N
 F B H O
 G I H A
-G I F B
+G K B
 G K J C
-G I F B D
+G K B D
 G I E
 G I F
 G
@@ -299,7 +299,7 @@ K J M
 K J H N
 K J H O
 L G I H A
-L G I F B
+L G K B
 L G K J C
 L D
 L E

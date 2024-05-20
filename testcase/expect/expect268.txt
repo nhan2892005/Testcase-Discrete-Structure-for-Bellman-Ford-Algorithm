@@ -152,7 +152,7 @@ Step 16:
 322 236 278 294 283 396 213 0 211 374 505 200 295 190 437 247 124 
 3 11 1 11 15 0 16 -1 16 7 12 13 6 16 8 11 7 
 A
-A F N L B
+A B
 A F N C
 A D
 A F P E
@@ -203,7 +203,7 @@ C N L B I O
 C N L P
 C N L H Q
 D A
-D A F N L B
+D A B
 D A F N C
 D
 D A F P E
@@ -221,7 +221,7 @@ D A F P
 D A H Q
 E L D A
 E B
-E M Q N C
+E L N C
 E L D
 E
 E L D A F
@@ -232,7 +232,7 @@ E J
 E M K
 E L
 E M
-E M Q N
+E L N
 E O
 E L P
 E M Q

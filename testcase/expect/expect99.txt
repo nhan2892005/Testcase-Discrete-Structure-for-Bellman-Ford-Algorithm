@@ -98,9 +98,9 @@ D C A
 D C A B
 D C
 D
-D C A F E
+D E
 D C A F
-D C A F E G
+D E G
 D C A F H
 E A
 E B

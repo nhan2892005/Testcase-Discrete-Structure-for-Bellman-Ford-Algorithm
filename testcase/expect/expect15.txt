@@ -51,7 +51,7 @@ A C E
 B E A
 B
 B E C
-B E D
+B D
 B E
 C E A
 C B

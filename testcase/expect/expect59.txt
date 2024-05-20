@@ -94,7 +94,7 @@ E A B
 E C
 E C D
 E
-E C D F
+E F
 E G
 F G C A
 F B
@@ -120,7 +120,7 @@ A G
 B F C A
 B
 B F C
-B F C A D
+B D
 B E
 B F
 B F C G

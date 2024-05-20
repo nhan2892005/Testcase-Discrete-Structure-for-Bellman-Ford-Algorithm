@@ -113,7 +113,7 @@ E B H
 F H A
 F G E B
 F C
-F G E D
+F D
 F G E
 F
 F G

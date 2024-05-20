@@ -185,11 +185,11 @@ F H
 G E A
 G B
 G E C
-G E C F H D
+G D
 G E
-G E C F
+G F
 G
-G E C F H
+G F H
 H A
 H B
 H D C

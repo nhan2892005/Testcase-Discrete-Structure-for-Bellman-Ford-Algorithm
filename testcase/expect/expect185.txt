@@ -397,10 +397,10 @@ I B C F
 I B C F G
 I B A H
 I
-I B M J
+I M J
 I B K
 I B K L
-I B M
+I M
 J L A
 J L A E B
 J H F C
@@ -420,7 +420,7 @@ K L A H F C
 K D
 K L A E
 K L A H F
-K L A H F G
+K G
 K L A H
 K L A E I
 K L A E J
@@ -440,14 +440,14 @@ L A E J
 L K
 L
 L K M
-M K L A
+M A
 M E B
 M C
 M K D
 M E
 M C F
 M C F G
-M K L A H
+M A H
 M E I
 M J
 M K

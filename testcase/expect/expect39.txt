@@ -95,19 +95,19 @@ C F
 C H G
 C H
 D F A
-D F A B
+D B
 D C
 D
 D E
 D F
 D E G
-D F A B H
+D B H
 E A
 E A B
 E G C
 E H D
 E
-E G C F
+E G F
 E G
 E H
 F A
@@ -121,11 +121,11 @@ F A B H
 G A
 G A B
 G C
-G C H D
+G H D
 G E
-G C F
+G F
 G
-G C H
+G H
 H A
 H A B
 H C
@@ -140,7 +140,7 @@ A C
 A D
 A D E
 A H F
-A D E G
+A G
 A H
 B A
 B
@@ -151,7 +151,7 @@ B H F
 B C G
 B H
 C A
-C G B
+C B
 C
 C D
 C D E

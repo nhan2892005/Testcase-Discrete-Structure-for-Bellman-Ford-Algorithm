@@ -222,7 +222,7 @@ G B E
 G F
 G
 G F H
-G F H I
+G I
 H C B A
 H C B
 H C

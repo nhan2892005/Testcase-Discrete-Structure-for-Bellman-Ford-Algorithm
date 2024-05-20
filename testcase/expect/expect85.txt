@@ -52,7 +52,7 @@ B D A
 B
 B D C
 B D
-B D A E
+B E
 C A
 C D B
 C

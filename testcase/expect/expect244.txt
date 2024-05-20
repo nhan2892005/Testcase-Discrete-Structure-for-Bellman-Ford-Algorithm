@@ -399,7 +399,7 @@ K I E R
 K S
 K I E T
 L Q D E T G A
-L Q D E R B
+L Q H B
 L Q S C
 L Q D
 L Q D E
@@ -485,7 +485,7 @@ P M L Q D
 P I E
 P I F
 P G
-P M L Q H
+P J N H
 P I
 P J
 P I F K
@@ -499,7 +499,7 @@ P R
 P M S
 P I E T
 Q D E T G A
-Q D E R B
+Q H B
 Q S C
 Q D
 Q D E

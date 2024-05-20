@@ -398,7 +398,7 @@ K T E Q
 K L R
 K D J S
 K T
-L R G D K A
+L R P K A
 L R G Q C B
 L R G Q C
 L R G D
@@ -406,9 +406,9 @@ L R G Q E
 L R G Q F
 L R G
 L R H
-L R G D K I
+L R P K I
 L R G D J
-L R G D K
+L R P K
 L
 L R M
 L R G D N
@@ -417,7 +417,7 @@ L R P
 L R G Q
 L R
 L R G D J S
-L R G D K T
+L R P K T
 M S E A
 M C B
 M C
@@ -518,7 +518,7 @@ Q
 Q F R
 Q F M S
 Q E K T
-R G D K A
+R P K A
 R G Q C B
 R G Q C
 R G D
@@ -526,9 +526,9 @@ R G Q E
 R G Q F
 R G
 R H
-R G D K I
+R P K I
 R G D J
-R G D K
+R P K
 R H L
 R M
 R G D N
@@ -537,7 +537,7 @@ R P
 R G Q
 R
 R G D J S
-R G D K T
+R P K T
 S E A
 S E Q C B
 S E Q C

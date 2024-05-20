@@ -89,7 +89,7 @@ Step 9:
 373 0 73 313 264 178 318 161 31 91 
 4 -1 8 7 5 8 9 1 1 1 
 A
-A I F B
+A B
 A I C
 A D
 A I F E
@@ -97,7 +97,7 @@ A I F
 A I G
 A I C H
 A I
-A I F B J
+A B J
 B I F E A
 B
 B I C

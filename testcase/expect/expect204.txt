@@ -354,7 +354,7 @@ I T M
 I K N
 I R F O
 I R P
-I R P Q
+I R F Q
 I R
 I R F S
 I T
@@ -529,12 +529,12 @@ R F S H
 R F S I
 R F J
 R F S K
-R P Q L
+R F Q L
 R F O T M
 R F S K N
 R F O
 R P
-R P Q
+R F Q
 R
 R F S
 R F O T
@@ -649,8 +649,8 @@ D B T H
 D C O I
 D J
 D K
-D C G Q M L
-D C G Q M
+D B S N M L
+D B S N M
 D B S N
 D C O
 D E P

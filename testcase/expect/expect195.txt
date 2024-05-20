@@ -159,7 +159,7 @@ C A F
 C G
 C A E H
 D A
-D H B
+D B
 D C
 D
 D A E
@@ -187,7 +187,7 @@ G H B
 G C
 G C A E D
 G C A E
-G C A F
+G F
 G
 G H
 H B A

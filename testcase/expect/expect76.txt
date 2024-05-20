@@ -168,8 +168,8 @@ D G
 D H
 E A
 E B
-E F C
-E F C D
+E C
+E C D
 E
 E F
 E G

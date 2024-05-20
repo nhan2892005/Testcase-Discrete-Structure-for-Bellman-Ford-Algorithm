@@ -300,7 +300,7 @@ A I K M
 B J M A
 B
 B J C
-B J D
+B D
 B J E
 B F
 B J M G
@@ -323,7 +323,7 @@ C B J
 C H K
 C H L
 C H K M
-D G K M A
+D M A
 D B
 D C
 D
@@ -335,11 +335,11 @@ D I
 D B J
 D G K
 D L
-D G K M
+D M
 E A
 E B
 E B J C
-E B J D
+E B D
 E
 E B F
 E G

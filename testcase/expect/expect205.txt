@@ -226,7 +226,7 @@ D P I
 D J
 D P O R K
 D G B C L
-D P O R H M
+D J M
 D P N
 D P O
 D P
@@ -332,14 +332,14 @@ J Q I G
 J M H
 J Q I
 J
-J M D P O R K
+J Q R K
 J M C L
 J M
 J N
 J M D P O
 J M D P
 J Q
-J M D P O R
+J Q R
 K A
 K G B
 K C

@@ -87,12 +87,12 @@ B F
 B G
 B H
 C D A
-C D F B
+C H B
 C
 C D
 C E
 C D F
-C D A G
+C G
 C H
 D A
 D F B
@@ -116,7 +116,7 @@ F C
 F C D
 F E
 F
-F C D A G
+F B G
 F B H
 G A
 G H B
@@ -141,7 +141,7 @@ A D
 A G B F E
 A G B F
 A G
-A G B H
+A H
 B H A
 B
 B C

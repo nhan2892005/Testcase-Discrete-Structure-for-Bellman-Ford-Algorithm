@@ -111,13 +111,13 @@ E F
 E G
 E H
 F A
-F G B
-F G B C
+F B
+F B C
 F D
 F D E
 F
 F G
-F G B C H
+F B C H
 G A
 G B
 G B C

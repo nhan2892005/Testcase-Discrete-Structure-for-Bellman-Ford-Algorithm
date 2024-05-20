@@ -321,19 +321,19 @@ N E L
 N D M
 N
 A
-A F E K B
-A F E K C
+A E K B
+A E K C
 A F J D
-A F E
+A E
 A F
 A F J H G
 A F J H
-A F E K B M I
+A E K B M I
 A F J
-A F E K
+A E K
 A F J H L
-A F E K B M
-A F E K B M N
+A E K B M
+A E K B M N
 B M I E A
 B
 B M I K C
@@ -349,18 +349,18 @@ B M I K C H L
 B M
 B M N
 C H A
-C H K B
+C D B
 C
 C D
 C H F E
 C H F
 C H G
 C H
-C H K B M I
+C D B M I
 C H F J
 C H K
 C H L
-C H K B M
+C D B M
 C H G N
 D H A
 D B
@@ -506,7 +506,7 @@ N A
 N D B
 N D H K C
 N D
-N A F E
+N A E
 N A F
 N D H G
 N D H

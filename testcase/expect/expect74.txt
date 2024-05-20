@@ -178,7 +178,7 @@ F A
 F B
 F H C
 F B D
-F B G E
+F H E
 F
 F B G
 F H

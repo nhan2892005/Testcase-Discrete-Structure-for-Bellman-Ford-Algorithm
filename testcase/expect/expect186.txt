@@ -178,7 +178,7 @@ B F
 B G
 B G H
 B D I
-C G A
+C A
 C B
 C
 C E D
@@ -227,7 +227,7 @@ H A
 H B
 H C
 H F D
-H C E
+H E
 H F
 H A G
 H

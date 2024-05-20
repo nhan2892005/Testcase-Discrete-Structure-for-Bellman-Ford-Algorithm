@@ -71,7 +71,7 @@ Step 7:
 7 5 22 20 29 31 40 0 
 1 7 1 7 7 4 0 -1 
 A
-A G C B
+A B
 A G C
 A H D
 A G E
@@ -86,7 +86,7 @@ B D E
 B D E F
 B D G
 B H
-C B D A
+C H A
 C B
 C
 C B D
@@ -139,7 +139,7 @@ A B
 A C
 A B D
 A C E
-A G F
+A C F
 A G
 A C E H
 B A

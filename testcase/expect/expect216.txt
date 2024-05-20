@@ -540,7 +540,7 @@ C L Q
 C N P G R
 D M A
 D B
-D M E H G R C
+D M R C
 D
 D M E
 D M F
@@ -555,7 +555,7 @@ D M E N
 D L P O
 D L P
 D L Q
-D M E H G R
+D M R
 E N P A
 E F L B
 E H G R C
@@ -702,7 +702,7 @@ L Q
 L P G R
 M A
 M F L B
-M E H G R C
+M R C
 M E H Q I D
 M E
 M F
@@ -717,7 +717,7 @@ M E N
 M E N P O
 M E N P
 M E H Q
-M E H G R
+M R
 N P A
 N P O I D B
 N P G R C

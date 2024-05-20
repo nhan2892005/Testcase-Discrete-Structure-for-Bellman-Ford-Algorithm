@@ -325,7 +325,7 @@ A G B
 A G H N C
 A G D
 A E
-A G F
+A F
 A G
 A G H
 A I
@@ -353,7 +353,7 @@ C H N I G B
 C
 C D
 C H E
-C H N I G F
+C H E F
 C H N I G
 C H
 C H N I
@@ -362,12 +362,12 @@ C H N K
 C H L
 C H N K M
 C H N
-D H N A
+D A
 D J G B
 D C
 D
 D H E
-D J G F
+D H E F
 D J G
 D H
 D H N I
@@ -423,7 +423,7 @@ H N I G B
 H N C
 H N C D
 H E
-H N I G F
+H E F
 H N I G
 H
 H N I

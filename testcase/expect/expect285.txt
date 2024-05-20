@@ -97,9 +97,9 @@ E
 E F
 E F G
 F A
-F A D B
+F D B
 F C
-F A D
+F D
 F C E
 F
 F G

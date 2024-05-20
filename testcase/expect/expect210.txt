@@ -73,7 +73,7 @@ B
 B D C
 B D
 B D C A E
-B D C F
+B F
 B D C G
 C A
 C B

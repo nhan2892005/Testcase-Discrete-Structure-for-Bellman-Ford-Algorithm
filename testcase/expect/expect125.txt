@@ -305,7 +305,7 @@ H D C G
 H
 H I
 H D J
-H D J K
+H I E K
 I A
 I E K B
 I C

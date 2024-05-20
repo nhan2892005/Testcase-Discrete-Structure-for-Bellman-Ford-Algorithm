@@ -79,7 +79,7 @@ B E C
 B E D
 B E
 C E A
-C E A B
+C B
 C
 C D
 C E

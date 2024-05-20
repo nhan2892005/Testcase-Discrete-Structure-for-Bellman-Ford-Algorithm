@@ -32,7 +32,7 @@ B A
 B
 B C
 C A
-C A B
+C B
 C
 A
 A B

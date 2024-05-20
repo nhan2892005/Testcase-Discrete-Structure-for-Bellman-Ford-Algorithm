@@ -227,7 +227,7 @@ A E F
 A E B G
 A H
 A I
-A E J
+A J
 A I K
 B F A
 B
@@ -238,7 +238,7 @@ B F
 B G
 B F A H
 B K I
-B F A E J
+B F A J
 B K
 C F A
 C F A E B
@@ -282,7 +282,7 @@ F
 F G
 F A H
 F A I
-F A E J
+F A J
 F A I K
 G F A
 G E B

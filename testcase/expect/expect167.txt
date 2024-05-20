@@ -343,7 +343,7 @@ E I D
 E
 E L F
 E L G
-E L G J H
+E C H
 E I
 E L G J
 E L K

@@ -133,7 +133,7 @@ C B A F
 C B A G
 D E B A
 D E B
-D E B C
+D C
 D
 D E
 D E F
@@ -156,6 +156,6 @@ G A
 G B
 G C
 G D
-G D E
+G E
 G A F
 G
