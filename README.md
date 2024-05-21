@@ -1,6 +1,12 @@
 # Bộ Testcase nhỏ cho Bài tập lớn Cấu trúc rời rạc - Trường Đại học Bách Khoa TP.HCM
 ## Giới thiệu:  
-- Bộ test sẽ kiểm tra hoạt động của hàm BF() và BF_Path() theo mô tả của đề
+- Bộ test sẽ kiểm tra hoạt động của hàm BF(), BF_Path(), Traveling() theo mô tả của đề và test mẫu
+
+- Bộ test chia thành 2 
+  
+    - Phần 1: Kiểm tra thuật toán Bellman_Ford cho 2 hàm BF() và BF_Path() (Test 1 đến 300)
+
+    - Phần 2: Kiểm tra thuật toán cho Traveling Saleman Problem (Test 301 đến 500)
 
 - Lưu ý: Đây là bộ test tạo nên từ code của mình, vì vậy mọi kết quả đều không hoàn toàn chính xác.
   Tuy nhiên, nếu bạn mắc lỗi ở 1 test nào đó, hãy liên hệ cho tôi và cùng debug.
@@ -10,7 +16,11 @@
 ## Hướng dẫn sử dụng bộ test
 - Bước 1: Các bạn clone repo của mình về local theo hướng dẫn sau: [cloning a repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) hoặc download zip file
 
-- Bước 2: Thêm 2 file bài bài làm `bellman.cpp` và `bellman.h` (nếu cần)
+- Bước 2: 
+
+  Thêm 2 file bài làm `bellman.cpp` và `bellman.h` (nếu cần)
+
+  Thêm 2 file bài làm `tsp.cpp` và `tsp.h` (nếu cần)
 
 - Bước 3: ở thư mục gốc (bạn vừa clone về) chạy lệnh
   
