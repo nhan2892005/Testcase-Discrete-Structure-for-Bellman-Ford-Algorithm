@@ -163,7 +163,7 @@ I
 A
 A F B
 A F B G C
-A F B G C D
+A E D
 A E
 A F
 A F B G
@@ -208,7 +208,7 @@ E I
 F A
 F B
 F B G C
-F B G C D
+F D
 F E
 F
 F B G
@@ -226,7 +226,7 @@ G C E I
 H F A
 H F B
 H F B G C
-H F B G C D
+H F D
 H F E
 H F
 H F B G
@@ -235,7 +235,7 @@ H I
 I F A
 I F B
 I F B G C
-I F B G C D
+I F D
 I F E
 I F
 I F B G

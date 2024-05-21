@@ -118,7 +118,7 @@ F B E
 F
 F G
 F B H
-G B E A
+G A
 G B
 G C
 G C D

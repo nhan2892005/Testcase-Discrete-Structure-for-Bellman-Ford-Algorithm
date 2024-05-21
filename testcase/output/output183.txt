@@ -170,7 +170,7 @@ D M
 E F C A
 E F J B
 E F C
-E F J D
+E D
 E
 E F
 E F G
@@ -309,7 +309,7 @@ B I
 B I G J
 B I G K
 B I L
-B I G K M
+B M
 C E A
 C B
 C
@@ -433,7 +433,7 @@ L H C
 L K D
 L E
 L E F
-L J B I G
+L K M G
 L H
 L J B I
 L J

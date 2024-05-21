@@ -135,9 +135,9 @@ H D F
 H G
 H
 A
-A G D B
-A G D C
-A G D
+A F D B
+A F D C
+A F D
 A F E
 A F
 A G
@@ -148,7 +148,7 @@ B D C
 B D
 B F E
 B F
-B D C G
+B D G
 B D H
 C G A
 C G D B
@@ -164,7 +164,7 @@ D C
 D
 D B F E
 D B F
-D C G
+D G
 D H
 E A
 E G D B

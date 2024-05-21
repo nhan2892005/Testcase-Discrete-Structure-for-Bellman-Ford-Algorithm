@@ -143,15 +143,15 @@ C J
 C K
 C J L
 D H F L A
-D H F L A I B
+D H E I B
 D H F L C
 D
 D H E
 D H F
 D H F L G
 D H
-D H F L A I
-D H F L A I J
+D H E I
+D H E I J
 D K
 D H F L
 E L A
@@ -191,15 +191,15 @@ G I J
 G E K
 G E L
 H F L A
-H F L A I B
+H E I B
 H F L C
-H F L A I D
+H E I D
 H E
 H F
 H F L G
 H
-H F L A I
-H F L A I J
+H E I
+H E I J
 H E K
 H F L
 I L A

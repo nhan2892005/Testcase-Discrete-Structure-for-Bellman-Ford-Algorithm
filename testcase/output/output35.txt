@@ -105,9 +105,9 @@ D E H
 E H C B A
 E H C B
 E H C
-E H C G D
+E D
 E
-E H C G D F
+E D F
 E H C G
 E H
 F A

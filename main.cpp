@@ -6,11 +6,17 @@
 * Date: 15.05.2024
 */
 #include "bellman.h"
-
+#include "tsp.h"
+template <typename PHUCNHAN> void setAllElement(PHUCNHAN arr[], PHUCNHAN value, int size){
+    for (int idx = 0; idx < size; ++idx) arr[idx] = value;
+}
 void copyFile(const std::string& sourcePath, const std::string& destinationPath);
 void printTestFail(int i);
 void comparefile(int start, int end);
 bool isNumber(string str);
+int cost(int graph[][20], string path);
+string result_success = "";
+string result_fail = "";
 
 ofstream OUTPUT;
 string folder_output = "testcase/output/output";
@@ -28,79 +34,138 @@ template <typename PHUCNHAN> void printArray(PHUCNHAN arr[], int n) {
 
 void run(string task)
 {
-    // * Get input from 2 file input
-    ifstream file_input(input + task+".txt");
-    ifstream file_input2(input2 + task+".txt");
-    if (file_input.fail() || file_input2.fail())
+    if (stoi(task) <= 300)
     {
-        std::cout << "Error reading file" << std::endl;
-        return;
-    }
-    int n, m;
-    file_input >> n;
-    file_input2 >> m;
-    if (n != m) {
-        std::cout << "My bad, so sorry!" << std::endl;
-        return;
-    }
-    int graph[max_vertices][max_vertices];
-    int graph2[max_vertices][max_vertices];
-    FOR(i, 0, n)
-    {
-        FOR(j, 0, n)
+        // * Get input from 2 file input
+        ifstream file_input(input + task+".txt");
+        ifstream file_input2(input2 + task+".txt");
+        if (file_input.fail() || file_input2.fail())
         {
-            file_input >> graph[i][j];
-            file_input2 >> graph2[i][j];
+            std::cout << "Error reading file" << std::endl;
+            return;
         }
-    }
-    // * initial BFVal and BFPrev = -1
-    int BFVal[max_vertices];
-    int BFPrev[max_vertices];
-    // * get start vertex
-    char start_vertex;
-    file_input >> start_vertex;
-    // * Do BF for graph 1 n times
-    fill(BFVal, BFVal + n, -1);
-    fill(BFPrev, BFPrev + n, -1);
-    FOR(i, 0, n)
-    {
-        BF(graph, n, start_vertex, BFVal, BFPrev);
-        OUTPUT << "Step " << i << ": " << std::endl;
-        printArray<int>(BFVal, n);
-        printArray<int>(BFPrev, n);
-    }
-    // * Do BF for graph 2 n times
-    fill(BFVal, BFVal + n, -1);
-    fill(BFPrev, BFPrev + n, -1);
-    FOR(i, 0, n)
-    {
-        BF(graph2, n, start_vertex, BFVal, BFPrev);
-        OUTPUT << "Step " << i << ": " << std::endl;
-        printArray<int>(BFVal, n);
-        printArray<int>(BFPrev, n);
-    }
-    // * Do BF for graph 1 mix graph 2 n times
-    fill(BFVal, BFVal + n, -1);
-    fill(BFPrev, BFPrev + n, -1);
-    FOR(i, 0, n)
-    {
-        if (i % 2){
-            BF(graph2, n, start_vertex, BFVal, BFPrev);
-        }else{
+        int n, m;
+        file_input >> n;
+        file_input2 >> m;
+        if (n != m) {
+            std::cout << "My bad, so sorry!" << std::endl;
+            return;
+        }
+        int graph[max_vertices][max_vertices];
+        int graph2[max_vertices][max_vertices];
+        FOR(i, 0, n)
+        {
+            FOR(j, 0, n)
+            {
+                file_input >> graph[i][j];
+                file_input2 >> graph2[i][j];
+            }
+        }
+        // * initial BFVal and BFPrev = -1
+        int BFVal[max_vertices];
+        int BFPrev[max_vertices];
+        // * get start vertex
+        char start_vertex;
+        file_input >> start_vertex;
+        // * Do BF for graph 1 n times
+        setAllElement<int>(BFVal, -1, n);
+        setAllElement<int>(BFPrev, -1, n);
+        FOR(i, 0, n)
+        {
             BF(graph, n, start_vertex, BFVal, BFPrev);
+            OUTPUT << "Step " << i << ": " << std::endl;
+            printArray<int>(BFVal, n);
+            printArray<int>(BFPrev, n);
         }
-        OUTPUT << "Step " << i << ": " << std::endl;
-        printArray<int>(BFVal, n);
-        printArray<int>(BFPrev, n);
-    }
-    FOR(i, 0, n){
-        FOR(j, 0, n){
-            OUTPUT << BF_Path(graph, n, char(i+'A'), char(j+'A')) << endl;
+        // * Do BF for graph 2 n times
+        setAllElement<int>(BFVal, -1, n);
+        setAllElement<int>(BFPrev, -1, n);
+        FOR(i, 0, n)
+        {
+            BF(graph2, n, start_vertex, BFVal, BFPrev);
+            OUTPUT << "Step " << i << ": " << std::endl;
+            printArray<int>(BFVal, n);
+            printArray<int>(BFPrev, n);
+        }
+        // * Do BF for graph 1 mix graph 2 n times
+        setAllElement<int>(BFVal, -1, n);
+        setAllElement<int>(BFPrev, -1, n);
+        FOR(i, 0, n)
+        {
+            if (i % 2){
+                BF(graph2, n, start_vertex, BFVal, BFPrev);
+            }else{
+                BF(graph, n, start_vertex, BFVal, BFPrev);
+            }
+            OUTPUT << "Step " << i << ": " << std::endl;
+            printArray<int>(BFVal, n);
+            printArray<int>(BFPrev, n);
+        }
+        FOR(i, 0, n){
+            FOR(j, 0, n){
+                OUTPUT << BF_Path(graph, n, char(i+'A'), char(j+'A')) << endl;
+            }
+        }
+        FOR(i, 0, n){
+            FOR(j, 0, n){
+                OUTPUT << BF_Path(graph2, n, char(i+'A'), char(j+'A')) << endl;
+            }
         }
     }
-    FOR(i, 0, n){
-        FOR(j, 0, n){
-            OUTPUT << BF_Path(graph2, n, char(i+'A'), char(j+'A')) << endl;
+    else
+    {
+        // * Test for Traveling Salesman Problem
+        ifstream file_input(input + task+".txt");
+        if (file_input.fail())
+        {
+            std::cout << "Error reading file" << std::endl;
+            return;
+        }
+        int n;
+        file_input >> n;
+        int graph[max_vertices][max_vertices];
+        FOR(i, 0, n)
+        {
+            FOR(j, 0, n)
+            {
+                file_input >> graph[i][j];
+            }
+        }
+        char start_vertex;
+        file_input >> start_vertex;
+        OUTPUT << "Traveling Saleman Problem Testcase\n";
+        OUTPUT << Traveling(graph, n, start_vertex) << std::endl;
+        int output_cost = cost(graph, Traveling(graph, n, start_vertex));
+        OUTPUT << "Cost:\n" << output_cost << std::endl;
+        int expect_cost = 1e9;
+        double diviation = 1.0;
+        // read file expect in line 4 to get cost(int)
+        ifstream file_expect(folder_expect + task + ".txt");
+        if (file_expect.fail())
+        {
+            std::cout << "Error reading file expect" << std::endl;
+            return;
+        }
+        string line;
+        while (getline(file_expect, line))
+        {
+            if (line == "Cost:")
+            {
+                file_expect >> expect_cost;
+                break;
+            }
+        }
+        diviation = (output_cost - expect_cost) * 1.0 / expect_cost;
+        OUTPUT << "Diviation: " << diviation << std::endl;
+        if (diviation < 0.05 && diviation > -0.05)
+        {
+            OUTPUT << "OK" << std::endl;
+            result_success += task + " ";
+        }
+        else
+        {
+            OUTPUT << "Fail" << std::endl;
+            result_fail += task + " ";
         }
     }
 }
@@ -117,7 +182,7 @@ int main(int argc, char *argv[])
     {
         std::cout << "Running test : ";
         START = 1;
-        END = 300;
+        END = 306;
         FOR(i, START, END + 1)
         {
             std::cout << i << " ";
@@ -167,8 +232,26 @@ int main(int argc, char *argv[])
     }
 
 	std::cout << "\nOK: runs without errors\n" << std::endl;
-    comparefile(START, END);
-    return 1;
+    if (START > 300)
+    {
+        std::cout << "In Traveling Salesman Problem" << std::endl;
+        std::cout << "Success: " << result_success << std::endl;
+        std::cout << "Fail: " << result_fail << std::endl;
+    }
+    else if (END > 300)
+    {
+        std::cout << "In Bellman Ford Algorithm" << std::endl;
+        comparefile(START, 300);
+        std::cout << "In Traveling Salesman Problem" << std::endl;
+        std::cout << "Success: " << result_success << std::endl;
+        std::cout << "Fail: " << result_fail << std::endl;
+    }
+    else if (END <= 300){
+        std::cout << "In Bellman Ford Algorithm" << std::endl;
+        comparefile(START, END);
+    }
+        
+    return 0;
 }
 bool isNumber(string str) {
     FOR(i, 0, str.length()){
@@ -249,4 +332,14 @@ void copyFile(const std::string& sourcePath, const std::string& destinationPath)
     if (!destinationFile) {
         std::cerr << "Error copying data from " << sourcePath << " to " << destinationPath << std::endl;
     }
+}
+int cost(int graph[][20], string path)
+{
+    int n = path.length();
+    int cost = 0;
+    for (int i = 0; i < n - 1; i+=2)
+    {
+        cost += graph[path[i] - 'A'][path[i + 2] - 'A'];
+    }
+    return cost;
 }

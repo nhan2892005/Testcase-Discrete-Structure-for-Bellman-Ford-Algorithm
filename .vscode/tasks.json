@@ -10,7 +10,7 @@
                 "-g",
                 "${fileDirname}/main.cpp",
                 "${fileDirname}/bellman.cpp",
-                //"${fileDirname}/tsm.cpp",
+                "${fileDirname}/tsp.cpp",
             ],
             "options": {
                 "cwd": "${fileDirname}"

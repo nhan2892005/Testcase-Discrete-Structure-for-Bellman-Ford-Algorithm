@@ -90,6 +90,6 @@ D
 D E
 E D A
 E D B
-E D A C
+E C
 E D
 E

@@ -144,14 +144,14 @@ Step 15:
 9 12 -1 2 1 2 11 3 11 11 3 3 2 1 3 5 
 A
 A K M B
-A K O F J C
+A K G J C
 A K M D
 A K M B E
 A K O F
 A K G
 A H
 A K G I
-A K O F J
+A K G J
 A K
 A K M D L
 A K M
@@ -215,7 +215,7 @@ E A K O F
 E A K G
 E A H
 E A K G I
-E A K O F J
+E A K G J
 E A K
 E L
 E A K M
@@ -223,10 +223,10 @@ E A H N
 E A K O
 E P
 F J A
-F M B
+F J B
 F J C
 F M D
-F M B E
+F J B E
 F
 F J K G
 F H
@@ -237,7 +237,7 @@ F M D L
 F M
 F J N
 F J K O
-F M B P
+F J B P
 G J A
 G J B
 G J C
@@ -302,20 +302,20 @@ J K M
 J N
 J K O
 J B P
-K O F J A
+K G J A
 K M B
-K O F J C
+K G J C
 K M D
 K M B E
 K O F
 K G
 K M D H
 K G I
-K O F J
+K G J
 K
 K M D L
 K M
-K O F J N
+K G J N
 K O
 K M B P
 L J A
@@ -352,14 +352,14 @@ M K O
 M B P
 N A
 N K M B
-N K O F J C
+N K G J C
 N K M D
 N K M B E
 N K O F
 N K G
 N A H
 N K G I
-N K O F J
+N K G J
 N K
 N K M D L
 N K M
@@ -367,10 +367,10 @@ N
 N K O
 N P
 O F J A
-O F M B
+O F J B
 O F J C
 O F M D
-O F M B E
+O F J B E
 O F
 O F J K G
 O F H
@@ -381,12 +381,12 @@ O F M D L
 O F M
 O F J N
 O
-O F M B P
+O F J B P
 P F J A
-P F M B
+P F J B
 P C
 P D
-P F M B E
+P F J B E
 P F
 P F J K G
 P F H

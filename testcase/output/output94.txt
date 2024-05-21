@@ -47,7 +47,7 @@ C B
 C
 C D
 D A
-D A B
+D B
 D C
 D
 A

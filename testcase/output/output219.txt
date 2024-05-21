@@ -323,18 +323,18 @@ J N Q P
 J N Q
 K B Q A
 K B
-K O J C
+K J C
 K D
 K B E
 K B Q A F
-K O J G
+K J G
 K D H
 K B I
-K O J
+K J
 K
 K B Q A L
 K B Q A M
-K O J N
+K J N
 K O
 K B Q P
 K B Q
@@ -426,7 +426,7 @@ P B Q
 Q A
 Q A B
 Q J C
-Q A B D
+Q J D
 Q A B E
 Q A F
 Q J G

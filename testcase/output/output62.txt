@@ -139,7 +139,7 @@ A E B
 A E C
 A E B D
 A E
-A H F
+A F
 A G
 A H
 B A
@@ -171,7 +171,7 @@ E B
 E C
 E B D
 E
-E A H F
+E A F
 E A G
 E A H
 F G E A
@@ -181,13 +181,13 @@ F G B D
 F G E
 F
 F G
-F G E A H
+F C H
 G E A
 G B
 G C
 G B D
 G E
-G E A H F
+G E A F
 G
 G E A H
 H A

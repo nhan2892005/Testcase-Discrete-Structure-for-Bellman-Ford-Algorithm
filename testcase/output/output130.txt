@@ -173,7 +173,7 @@ E G F D
 E
 E G F
 E G
-E G F H
+E H
 F D A
 F D C B
 F D C

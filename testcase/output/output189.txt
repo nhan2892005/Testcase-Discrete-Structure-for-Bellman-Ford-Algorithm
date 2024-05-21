@@ -434,19 +434,19 @@ C A
 C A B
 C
 C D
-C J K E
+C K E
 C D F
 C I N G
 C J P H
 C I
 C J
-C J K
+C K
 C D L
 C M
 C I N
-C J K O
+C K O
 C J P
-D N A
+D L A
 D B
 D N C
 D
@@ -622,7 +622,7 @@ N F M
 N
 N G K O
 N P
-O I N A
+O G K A
 O I B
 O C
 O F D
@@ -639,7 +639,7 @@ O I N
 O
 O P
 P H A
-P D B
+P B
 P C
 P D
 P H K E

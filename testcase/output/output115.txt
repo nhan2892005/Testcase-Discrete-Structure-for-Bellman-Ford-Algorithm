@@ -257,7 +257,7 @@ A F D
 A F E
 A F
 A F G
-A F K H
+A F H
 A F K I
 A F K I J
 A F K
@@ -265,26 +265,26 @@ A F L
 B C A
 B
 B C
-B C A F D
+B C F D
 B C E
-B C A F
-B C A F G
+B C F
+B C F G
 B H
 B L I
 B H J
-B C A F K
+B C F K
 B L
 C A
 C A B
 C
-C A F D
+C F D
 C E
-C A F
-C A F G
-C A F K H
-C A F K I
-C A F K I J
-C A F K
+C F
+C F G
+C F H
+C F K I
+C F K I J
+C F K
 C L
 D B C A
 D B
@@ -293,12 +293,12 @@ D
 D E
 D F
 D F G
-D F K H
+D B H
 D F K I
 D J
 D F K
-D F L
-E F L A
+D B L
+E K A
 E F D B
 E F D B C
 E F D
@@ -317,14 +317,14 @@ F D
 F E
 F
 F G
-F K H
+F H
 F K I
 F K I J
 F K
 F L
 G H J A
 G D B
-G D B C
+G H C
 G D
 G H E
 G D F
@@ -365,7 +365,7 @@ J A F D
 J E
 J A F
 J G
-J A F K H
+J A F H
 J L I
 J
 J A F K

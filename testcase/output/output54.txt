@@ -30,7 +30,7 @@ A B
 A C
 B A
 B
-B A C
+B C
 C A
 C B
 C

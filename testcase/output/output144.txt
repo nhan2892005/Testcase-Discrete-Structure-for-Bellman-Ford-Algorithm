@@ -201,7 +201,7 @@ E G C B
 E G C
 E G C D
 E
-E G F
+E F
 E G
 E G C I H
 E G C I
@@ -218,7 +218,7 @@ G A
 G C B
 G C
 G C D
-G C E
+G E
 G F
 G
 G C I H

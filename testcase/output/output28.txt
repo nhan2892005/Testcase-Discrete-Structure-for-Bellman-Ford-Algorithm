@@ -160,10 +160,10 @@ C G
 C D H
 D H G A
 D H B
-D H G C
+D C
 D
 D H G E
-D H G C F
+D C F
 D H G
 D H
 E D H G A

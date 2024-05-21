@@ -1,0 +1,6 @@
+Traveling Saleman Problem Testcase
+K C I J A E G B D F H L M K
+Cost:
+135
+Diviation: 0
+OK

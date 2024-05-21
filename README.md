@@ -15,7 +15,7 @@
 - Bước 3: ở thư mục gốc (bạn vừa clone về) chạy lệnh
   
   ```
-   g++ -o main main.cpp bellman.cpp
+   g++ -o main main.cpp bellman.cpp tsp.cpp
   ```
   Sau đó chạy lệnh `./main`
   Nếu muốn chạy kiểm tra từng task thì nhập theo 1 trong 2 cú pháp sau đây:

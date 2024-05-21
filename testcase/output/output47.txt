@@ -103,7 +103,7 @@ B E F
 C A
 C B
 C
-C A D
+C D
 C B E
 C A F
 D A

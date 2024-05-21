@@ -54,7 +54,7 @@ B A C
 B D
 B E
 C A
-C A B
+C B
 C
 C D
 C E

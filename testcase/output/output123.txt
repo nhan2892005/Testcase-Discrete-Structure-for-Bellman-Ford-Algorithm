@@ -144,7 +144,7 @@ A G
 A G B H
 B A
 B
-B A E C
+B C
 B A G D
 B A E
 B H F
@@ -184,7 +184,7 @@ F E G
 F H
 G B A
 G B
-G B A E C
+G B C
 G D
 G B A E
 G B H F

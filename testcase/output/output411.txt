@@ -1,0 +1,4 @@
+Traveling Saleman Problem Testcase
+J G L E B I A K C H F D J
+Cost:
+171

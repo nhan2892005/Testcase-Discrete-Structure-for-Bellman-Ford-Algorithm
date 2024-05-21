@@ -123,7 +123,7 @@ B C
 B D
 B E
 B F
-B C G
+B G
 C A
 C A B
 C
