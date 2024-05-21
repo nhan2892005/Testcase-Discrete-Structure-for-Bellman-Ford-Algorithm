@@ -175,8 +175,8 @@ int main(int argc, char *argv[])
 	std::cout << "Start run test for Discrete Structure Assignment" << std::endl;
 
 
-    int START = 1, END = 300;
-    int fullTask = 300;
+    int START = 1, END = 500;
+    int fullTask = 500;
 
     if (argc == 1)
     {
